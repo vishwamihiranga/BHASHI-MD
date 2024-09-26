@@ -1,0 +1,7 @@
+[build]
+  command = "npm start"  # Use your build command here
+  publish = "web-build"      # Update this if your build output directory is different
+  timeout = 600               # Set timeout to 10 minutes (600 seconds)
+
+[context.production.environment]
+  NODE_ENV = "production"

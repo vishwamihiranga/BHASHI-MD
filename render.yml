@@ -1,0 +1,16 @@
+version: 1
+services:
+  web:
+    type: docker
+    dockerfilePath: Dockerfile
+    env: node
+    autoDeploy: true
+    buildCommand: npm install
+    startCommand: pm2-runtime start index.js
+    healthCheckPath: /
+    healthCheckInterval: 10s
+    healthCheckTimeout: 5s
+    healthCheckRetries: 3
+    healthCheckSuccessThreshold: 1
+    healthCheckFailureThreshold: 3
+    plan: free

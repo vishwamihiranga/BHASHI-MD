@@ -1,0 +1,162 @@
+{
+  "name": "bhashimd",
+  "description": "Javascript WhatsApp bot made by BhashiMD",
+  "logo": "https://telegra.ph/file/1e4ba22b080c8fd6134f2.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+
+  "env": {
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
+      "required": true,
+      "default": ""
+    },
+    "MONGODB": {
+      "description": "Put your MongoDB Database URL here.",
+      "required": true,
+      "default": ""
+    },
+    "PREFIX": {
+      "description": "Add Your Custom Prefix here.",
+      "required": true,
+      "default": "."
+    },
+    "mode": {
+      "description": "Add Your Bot Mode (private, public, inbox, groups) here.",
+      "required": true,
+      "default": "public"
+    },
+    "OWNER_NUMBER": {
+      "description": "Owner Number",
+      "required": true,
+      "default": "94702481115"
+    },
+    "ALIVE_IMG": {
+      "description": "Put your alive img here.",
+      "required": true,
+      "default": ""
+    },
+    "ALIVE_MSG": {
+      "description": "Put your alive msg here.",
+      "required": true,
+      "default": ""
+    },
+    "AUTO_VOICE": {
+      "description": "Auto voice feature (true/false)",
+      "required": false,
+      "default": "false"
+    },
+    "ANTI_BAD_WORDS_ENABLED": {
+      "description": "Enable anti bad words (true/false)",
+      "required": false,
+      "default": "true"
+    },
+    "AUTO_READ_STATUS": {
+      "description": "Auto read status (true/false)",
+      "required": false,
+      "default": "true"
+    },
+    "ANTI_BAD_WORDS": {
+      "description": "Comma-separated list of bad words to filter.",
+      "required": false,
+      "default": "pakayo,huththo"
+    },
+    "ANTI_LINK": {
+      "description": "Enable anti link feature (true/false)",
+      "required": false,
+      "default": "false"
+    },
+    "ALWAYS_ONLINE": {
+      "description": "Always online feature (true/false)",
+      "required": false,
+      "default": "false"
+    },
+    "ALWAYS_TYPING": {
+      "description": "Always typing feature (true/false)",
+      "required": false,
+      "default": "false"
+    },
+    "ALWAYS_RECORDING": {
+      "description": "Always recording feature (true/false)",
+      "required": false,
+      "default": "false"
+    },
+    "ANTI_BOT": {
+      "description": "Enable anti bot feature (true/false)",
+      "required": false,
+      "default": "true"
+    },
+    "ANTI_DELETE": {
+      "description": "Enable anti delete feature (true/false)",
+      "required": false,
+      "default": "true"
+    },
+    "packname": {
+      "description": "Pack name for your bot",
+      "required": false,
+      "default": "🪄BHASHI"
+    },
+    "author": {
+      "description": "Author name for your bot",
+      "required": false,
+      "default": "BHASHI x VISHWA"
+    },
+    "OPENWEATHER_API_KEY": {
+      "description": "API key for OpenWeather",
+      "required": false,
+      "default": "2d61a72574c11c4f36173b627f8cb177"
+    },
+    "ELEVENLABS_API_KEY": {
+      "description": "API key for Eleven Labs",
+      "required": false,
+      "default": "sk_6438bcc100d96458f8de0602aec662f4ba14b905fd090ad3"
+    },
+    "SHODAN_API": {
+      "description": "API key for Shodan",
+      "required": false,
+      "default": "cbCkidr6qd7AFVaYs56MuCouGfM8gFki"
+    },
+    "PEXELS_API_KEY": {
+      "description": "API key for Pexels",
+      "required": false,
+      "default": "39WCzaHAX939xiH22NCddGGvzp7cgbu1VVjeYUaZXyHUaWlL1LFcVFxH"
+    },
+    "OMDB_API_KEY": {
+      "description": "API key for OMDB",
+      "required": false,
+      "default": "76cb7f39"
+    },
+    "PIXABAY_API_KEY": {
+      "description": "API key for Pixabay",
+      "required": false,
+      "default": "23378594-7bd620160396da6e8d2ed4d53"
+    },
+    "ZIPCODEBASE_API_KEY": {
+      "description": "API key for Zipcodebase",
+      "required": false,
+      "default": "0f94a5f0-6ea4-11ef-81da-579be4fb031c"
+    },
+    "GOOGLE_API_KEY": {
+      "description": "Google API key",
+      "required": false,
+      "default": "AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME"
+    },
+    "GOOGLE_CX": {
+      "description": "Google Custom Search Engine ID",
+      "required": false,
+      "default": "AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME"
+    },
+    "PASTEBIN_API_KEY": {
+      "description": "API key for Pastebin",
+      "required": false,
+      "default": "uh8QvO6vQJGtIug9WvjdTAPx_ZAFJAxn"
+    }
+  },
+
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+    }
+  ],
+  "stack": "heroku-24"
+}
