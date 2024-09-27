@@ -123,6 +123,8 @@ Please Reply The Number You Want To Select.
 *❯❯   .14*   Premium Commands.
 *❯❯   .15*   Owner Commands. `,
     MENU_MS: process.env.MENU_MS || `*乂  ＬＩＳＴ  ＭＥＮＵ*
+    
+> This Is Not Updated Get Updated Command List Type .list 
 
   Please Reply The Number You Want To Select.
 
