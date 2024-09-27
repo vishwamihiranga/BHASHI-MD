@@ -1,6 +1,8 @@
+***
 </p> <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=BHASHI-MD;MADE+BY+VISHWA+AND+BHASHI;TEAM+DARK+HACK+ZONE" alt="Typing SVG" /></a>
 
+***
 
 <p align = center>   <img src="https://i.ibb.co/2jNJs5q/94d829c1-de36-4b7f-9d4d-f0566c361b61-1.jpg"</p>
 <p align="center">
@@ -50,17 +52,6 @@
 
 <p align="center">
 <a href='https://github.com/vishwamihiranga/BHASHI-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
-
-<p align="center">
-<a href='https://pair-web-public.koyeb.app/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
-
-***
-
-
-<p align="center"> 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦
-
-<p align="center">
-<a href='https://github.com/BhashiMD/BhashiMD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
 
 <p align="center">
 <a href='https://pair-web-public.koyeb.app/' target="_blank"><img alt='Pair Code' src='https://img.shields.io/badge/-Pair Code-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=115 height=28/p></a>
