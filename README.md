@@ -32,7 +32,7 @@
 
   </a>
   <a href="https://github.com/vishwamihiranga/BHASHI-MD">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Vishwa%20Mihiranga%And%Bhashitha&color=purple&style=plastic">
+    <img src="https://img.shields.io/static/v1?label=Author&message=Vishwa%20Mihiranga%20And%20Bhashitha&color=purple&style=plastic">
 
   </a>
   </p>
