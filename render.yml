@@ -1,4 +1,4 @@
-version: 1
+version: '1'
 services:
   web:
     type: docker
@@ -14,3 +14,21 @@ services:
     healthCheckSuccessThreshold: 1
     healthCheckFailureThreshold: 3
     plan: free
+    environment:
+      SESSION_ID: ${SESSION_ID:-your_default_session_id} # ADD Your Session Id
+      MONGODB: ${MONGODB:-your_default_mongodb_url} # ADD Your MongoDB Database URL
+      PREFIX: ${PREFIX:-.} # Add Your Custom Prefix
+      mode: ${mode:-public} # Add Your Bot Mode 
+      OWNER_NUMBER: ${OWNER_NUMBER:-94702481115} # Owner number
+      AUTO_VOICE: ${AUTO_VOICE:-false}
+      ANTI_BAD_WORDS_ENABLED: ${ANTI_BAD_WORDS_ENABLED:-true}
+      AUTO_READ_STATUS: ${AUTO_READ_STATUS:-true}
+      ANTI_BAD_WORDS: ${ANTI_BAD_WORDS:-pakayo,huththo}
+      ANTI_LINK: ${ANTI_LINK:-false}
+      ALWAYS_ONLINE: ${ALWAYS_ONLINE:-false}
+      ALWAYS_TYPING: ${ALWAYS_TYPING:-false}
+      ALWAYS_RECORDING: ${ALWAYS_RECORDING:-false}
+      ANTI_BOT: ${ANTI_BOT:-true}
+      ANTI_DELETE: ${ANTI_DELETE:-true}
+      packname: ${packname:-🪄BHASHI}
+      author: ${author:-BHASHI x VISHWA}
