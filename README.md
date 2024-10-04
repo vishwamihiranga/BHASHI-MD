@@ -82,6 +82,9 @@
 <p align="center">
 <a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
 
+<p align="center">
+<a href='https://github.com/vishwamihiranga/BHASHI-MD/blob/main/WORKFLOW.md' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-WorkFlow Deploy-blue?style=for-the-badge&logo=workflow&logoColor=white'/< width=150 height=28/p></a> <h6>
+
 
 
  
