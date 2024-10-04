@@ -48,7 +48,7 @@
 ***
 
 
-<p align="center"> 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣
+<h2 align="center">𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
 
 <p align="center">
 <a href='https://github.com/vishwamihiranga/BHASHI-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-grey?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
@@ -61,7 +61,7 @@
 ***
 
 
-<p align="center"> 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦
+<h2 align="center">𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 
 <p align="center">
 <a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
@@ -108,30 +108,22 @@
   I am not responsible for any actions leading to the banning of your account. 
   Use at your own risk, keeping this warning in mind.
 </p>
+
 ***
 <h2 align="center">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
 <p style="text-align: center; font-size: 1.2em;">
-  <strong>Not For Sale/strong><br>
+  <strong>Not For Sale</strong><br>
   - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
   - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
   - Wishing you a wonderful day ahead! 
 </p>
+    
 ***
+<h2 align="center">𝗕𝗛𝗔𝗦𝗛𝗜 𝗠𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦</h2>
 
 | <a href="https://github.com/vishwamihiranga"><img src="https://i.ibb.co/DQQy17Y/image.png" width=90 height=90></a> | <a href="https://github.com/harshi2010"><img src="https://i.ibb.co/nb7Ky5d/image.png" width=90 height=90></a> | <a href="https://github.com/ALEX-ID-LK"><img src="https://i.ibb.co/2grFMBY/image.png" width=90 height=90></a> |
 |---|---|---|
 | **[VISHWA MIHIRANGA](https://github.com/vishwamihiranga)**</br>Founder & Developer</br> | **[BHASITHA](https://github.com/harshi2010)**</br>Helper</br> | **[ALEX-ID-LK](https://github.com/ALEX-ID-LK)**</br>Owner</br> |
 
 
-
-<p align="center"> 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗔𝗜𝗡 𝗢𝗪𝗡𝗘𝗥
-
-<p align="center">
-<a href='https://wa.me/+94786328485' target="_blank"><img alt='Contact My Main Owner' src='https://img.shields.io/badge/-Contact Owner-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/></a>
-
-***
-
-𝗦𝗣𝗘𝗖𝗜𝗔𝗟 𝗧𝗛𝗔𝗡𝗞𝗦 𝗙𝗢𝗥
-
-<p align = left> <img src="https://telegra.ph/file/fe3688d11b00c28f0d764.jpg"<width=70 height=70/p>
 
