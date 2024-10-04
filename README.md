@@ -98,7 +98,7 @@
 
 ***
 
-<h2 align="center">⚠️ Reminder ⚠️</h2>
+<h2 align="center">𝗥𝗘𝗠𝗜𝗡𝗗𝗘𝗥</h2>
 <p style="text-align: center; font-size: 1.2em;">
   <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
   Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
@@ -108,15 +108,19 @@
   I am not responsible for any actions leading to the banning of your account. 
   Use at your own risk, keeping this warning in mind.
 </p>
-
-<h2 align="center">📢 NOTICE 📢</h2>
+***
+<h2 align="center">𝗡𝗢𝗧𝗜𝗖𝗘</h2>
 <p style="text-align: center; font-size: 1.2em;">
-  <strong>⚠️ Not For Sale ⚠️</strong><br>
+  <strong>Not For Sale/strong><br>
   - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
   - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
-  - Wishing you a wonderful day ahead! 🌟
+  - Wishing you a wonderful day ahead! 
 </p>
+***
 
+| <a href="https://github.com/vishwamihiranga"><img src="https://telegra.ph/file/44ff060a7b96ff6c0a42a.jpg" width=90 height=90></a> | <a href="https://github.com/harshi2010"><img src="https://telegra.ph/file/7b554aaf04171d11d7ba6.jpg" width=90 height=90></a> | <a href="https://github.com/ALEX-ID-LK"><img src="https://telegra.ph/file/b194f9be48ca8e09e7a6b.jpg" width=90 height=90></a> |
+|---|---|---|---|---|---|
+| **[VISHWA MIHIRANGA](https://github.com/vishwamihiranga)**</br>Founder & Developer</br> | **[BHASITHA](https://github.com/harshi2010)**</br>Owner</br> | **[ALEX-ID-LK](https://github.com/ALEX-ID-LK)**</br>HELPER</br> | 
 
 <p align="center"> 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗔𝗜𝗡 𝗢𝗪𝗡𝗘𝗥
 
