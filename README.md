@@ -98,6 +98,25 @@
 
 ***
 
+<h2 align="center">⚠️ Reminder ⚠️</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  <strong>Important:</strong> This bot is not affiliated with <em>WhatsApp Inc.</em> 
+  Misusing this bot may result in a <strong>ban</strong> on your WhatsApp account. 
+  Please note that accounts can only be unbanned once.
+</p>
+<p style="text-align: center; font-size: 1.2em;">
+  I am not responsible for any actions leading to the banning of your account. 
+  Use at your own risk, keeping this warning in mind.
+</p>
+
+<h2 align="center">📢 NOTICE 📢</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  <strong>⚠️ Not For Sale ⚠️</strong><br>
+  - If any plugin's code is obfuscated, you do not have permission to edit it in any form.<br>
+  - Please remember to give credit if you are using or re-uploading my plugins/files.<br>
+  - Wishing you a wonderful day ahead! 🌟
+</p>
+
 
 <p align="center"> 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗔𝗜𝗡 𝗢𝗪𝗡𝗘𝗥
 
