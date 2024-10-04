@@ -64,13 +64,13 @@
 <p align="center"> 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦
 
 <p align="center">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
 
 <p align="center">
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 <p align="center">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-blue?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-blue?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
 
 <p align="center">
 <a href='https://app.koyeb.com/services/new?service_type=web&step=review&type=git&repository=github.com%2Fvishwamihiranga%2FBHASHI-MD&instance_type=free&regions=fra&env[SESSION_ID]=your_default_session_id&env[MONGODB]=your_default_mongodb_url&env[PREFIX]=.&env[mode]=public&env[OWNER_NUMBER]=94702481115&env[ALIVE_IMG]=your_default_alive_image_url&env[ALIVE_MSG]=I%20am%20alive!&env[AUTO_VOICE]=false&env[ANTI_BAD_WORDS_ENABLED]=true&env[AUTO_READ_STATUS]=true&env[ANTI_BAD_WORDS]=pakayo,huththo&env[ANTI_LINK]=false&env[ALWAYS_ONLINE]=false&env[ALWAYS_TYPING]=false&env[ALWAYS_RECORDING]=false&env[ANTI_BOT]=true&env[ANTI_DELETE]=true&env[packname]=🪄BHASHI&env[author]=BHASHI%20x%20VISHWA&env[OPENWEATHER_API_KEY]=2d61a72574c11c4f36173b627f8cb177&env[ELEVENLABS_API_KEY]=sk_6438bcc100d96458f8de0602aec662f4ba14b905fd090ad3&env[SHODAN_API]=cbCkidr6qd7AFVaYs56MuCouGfM8gFki&env[PEXELS_API_KEY]=39WCzaHAX939xiH22NCddGGvzp7cgbu1VVjeYUaZXyHUaWlL1LFcVFxH&env[OMDB_API_KEY]=76cb7f39&env[PIXABAY_API_KEY]=23378594-7bd620160396da6e8d2ed4d53&env[ZIPCODEBASE_API_KEY]=0f94a5f0-6ea4-11ef-81da-579be4fb031c&env[GOOGLE_API_KEY]=AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME&env[GOOGLE_CX]=AIzaSyD93IeJsouK51zjKgyHAwBIAlqr-a8mnME&env[PASTEBIN_API_KEY]=uh8QvO6vQJGtIug9WvjdTAPx_ZAFJAxn&dockerfile=./Dockerfile
