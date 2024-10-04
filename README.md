@@ -84,7 +84,7 @@
 
 <p align="center">
   <a href='https://github.com/vishwamihiranga/BHASHI-MD/blob/main/WORKFLOW.md' target="_blank">
-    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=workflows&logoColor=white' width="150" height="28"/>
+    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
   </a>
 
 
