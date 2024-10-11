@@ -16,4 +16,861 @@
 */
 
 
-function _0x2683(){const _0x44d089=['\x0a>\x20🌟\x20*Friends*:\x20','ʙʜᴀꜱʜɪ\x20•\x20ᴍᴜʟᴛɪ\x20ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ\x20㋛','>\x20💬*Description*:\x20','https://deliriusapi-official.vercel.app/download/xnxxdl?url=','igdl','isGroup','pop','Random\x20Video','category','toLocaleDateString','❌\x20No\x20videos\x20found\x20for\x20the\x20search\x20query.','mp4','audioMessage','isArray','\x0a>\x20⏳\x20*Duration*:\x20','includes','followingCount','ʙʜᴀꜱʜɪ-ᴍᴅ\x20|\x20','*Downloading\x20the\x20Instagram\x20reel\x20for\x20you...*','mtype','Please\x20reply\x20to\x20a\x20status\x20or\x20message\x20with\x20media\x20that\x20you\x20want\x20to\x20save.','.apk','乂\x20\x20𝖡\x20𝖧\x20𝖠\x20𝖲\x20𝖧\x20𝖨\x20\x20𝖠\x20𝖯\x20𝖪\x20\x20𝖣\x20𝖫\x0a\x0a‎\x20\x20*📥\x20𝖠𝗉𝗄\x20𝖭𝖺𝗆𝖾\x20:*\x20','url','\x0a>\x20🎥\x20*Videos*:\x20','application/vnd.android.package-archive','utility','\x0a>\x20💬\x20*Bio*:\x20','imageMessage','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a>\x20👥\x20*Followers*:\x20','fileName','path','video_files','randomvideo','\x0a>\x20📅\x20*Account\x20Created*:\x20','Fetch\x20and\x20send\x20a\x20random\x20video\x20from\x20Pexels.','fun','high','status','media','🎥\x20*Random\x20Pexels\x20Video*\x20🎥\x0a\x0aTitle:\x20','❌\x20Failed\x20to\x20fetch\x20the\x20TikTok\x20user\x20details.\x20Please\x20check\x20the\x20username\x20and\x20try\x20again!','pipe','user','uniqueId','\x20\x0a‎\x20\x20*📆\x20𝖫𝖺𝗌𝗍\x20𝖴𝗉𝖽𝖺𝗍𝖾\x20:*\x20','verified','1584510BuHXOK','77IHKZaA','3278538lZBYrU','&apikey=','PEXELS_API_KEY','error','videoCount','Instagram\x20Reel\x20Download','get','link','json','Fetch\x20APK\x20details\x20and\x20send\x20APK\x20file.','sender','\x20MB','ssave','log','xnxx2','download','writeFileSync','search','❌\x20Failed\x20to\x20fetch\x20the\x20reel\x20details.\x20Please\x20check\x20the\x20URL\x20and\x20try\x20again!','*😢\x20Access\x20denied.\x20You\x20don\x27t\x20have\x20permission\x20to\x20use\x20this\x20command.🎁\x20Change\x20Bot\x20Mode!*','N/A','random','message','⚠️\x20An\x20error\x20occurred\x20while\x20saving\x20the\x20media.','videos','File\x20write\x20error:\x20','https://api.giftedtechnexus.co.ke/api/stalk/tiktokstalk?username=','nickname','../config','followerCount','GET','image/jpeg','../command','sendMessage','name','title','tempVideo.mp4','https://api-aswin-sparky.koyeb.app/api/downloader/igdl?url=','size','friendCount','join','🪄\x20Please\x20provide\x20a\x20TikTok\x20username\x20✨','quoted','bioLink','>\x20🌟*More\x20info*:\x20','success','Search\x20XNXX\x20for\x20videos.','Saves\x20media\x20from\x20a\x20status\x20or\x20message\x20to\x20your\x20device.','Failed\x20to\x20download\x20the\x20media.','apk','data','\x20\x0a‎\x20\x20*⚙️\x20𝖲𝗂𝗓𝖾\x20:*\x20','dllink','wabeta','icon','tiktokstalk','❗\x20An\x20error\x20occurred:\x20','An\x20error\x20occurred:\x20','🪄\x20Please\x20provide\x20an\x20XNXX\x20video\x20URL\x20to\x20download\x20✨','No\x20WhatsApp\x20beta\x20information\x20available\x20at\x20the\x20moment.','forEach','downloadMediaMessage','video','https://www.tiktok.com/@','📢\x20*Latest\x20WhatsApp\x20Beta\x20Information*\x20📢\x0a\x0a','length','Media\x20saved\x20successfully','❌\x20Failed\x20to\x20fetch\x20the\x20search\x20results.\x20Please\x20try\x20again\x20later.','package','\x0a>\x20✅\x20*Verified*:\x20','ogg','.\x20*TITLE*:\x20','avatarLarger','type','\x0a>\x20👤\x20*Following*:\x20','>\x20🌍*Category*:\x20','https://deliriusapi-official.vercel.app/tools/wabetainfo','>\x20📅*Date*:\x20','\x0a>\x20📺\x20*Quality*:\x20','\x0a>\x20👁️\x20*Views*:\x20','views','Error\x20fetching\x20WhatsApp\x20beta\x20information:','createWriteStream','1146172ZZGqrL','*🚫\x20You\x20are\x20blacklisted.\x20Access\x20denied.*','TikTok\x20User\x20Info','🪄\x20Please\x20provide\x20an\x20Instagram\x20reel\x20URL\x20✨','finish','🪄\x20Please\x20provide\x20a\x20search\x20query\x20✨','Error:\x20Unable\x20to\x20fetch\x20APK\x20details.','split','\x0a>\x20❤️\x20*Hearts*:\x20','Download\x20Instagram\x20Reels.','result','&apikey=ibrahimtech_ai','axios','mimetype','createTime','❌\x20The\x20requested\x20content\x20is\x20not\x20a\x20video\x20or\x20could\x20not\x20be\x20retrieved.','audio/ogg','\x0a>\x20👤\x20*Nickname*:\x20','❌\x20Failed\x20to\x20fetch\x20the\x20reel\x20details.\x20Please\x20try\x20again\x20later!','2173392Doytuv','unlinkSync','Error:\x20','\x0a>\x20🔗\x20*Video\x20URL*:\x20','bin','❌\x20Error:\x20','region','Here\x20is\x20your\x20Instagram\x20reel!','jpg','583509kIDQSB','stats','existsSync','date','https://prabath-md-api.up.railway.app/api/apkdl?q=','❌\x20No\x20video\x20files\x20found.','15yMFPWC','documentMessage','77682oZbjoq','https://deliriusapi-official.vercel.app/search/xnxxsearch?query=','653867eTegsw','quality','Download\x20your\x20requested\x20Instagram\x20reel'];_0x2683=function(){return _0x44d089;};return _0x2683();}function _0x20c0(_0x4bb8b6,_0x3a3849){const _0x2683af=_0x2683();return _0x20c0=function(_0x20c04a,_0x36ab68){_0x20c04a=_0x20c04a-0x1c8;let _0x635a17=_0x2683af[_0x20c04a];return _0x635a17;},_0x20c0(_0x4bb8b6,_0x3a3849);}const _0xd63ea6=_0x20c0;(function(_0x107a47,_0xfd47f0){const _0x103620=_0x20c0,_0x2e8b2f=_0x107a47();while(!![]){try{const _0xb46a9=parseInt(_0x103620(0x1fa))/0x1+-parseInt(_0x103620(0x22c))/0x2+-parseInt(_0x103620(0x1f0))/0x3+-parseInt(_0x103620(0x1d4))/0x4*(-parseInt(_0x103620(0x1f6))/0x5)+parseInt(_0x103620(0x1f8))/0x6*(-parseInt(_0x103620(0x22d))/0x7)+-parseInt(_0x103620(0x1e7))/0x8+parseInt(_0x103620(0x22e))/0x9;if(_0xb46a9===_0xfd47f0)break;else _0x2e8b2f['push'](_0x2e8b2f['shift']());}catch(_0x37bc61){_0x2e8b2f['push'](_0x2e8b2f['shift']());}}}(_0x2683,0x74701));const sai='6467ad0b29',path=require(_0xd63ea6(0x21c)),{cmd,commands}=require(_0xd63ea6(0x24e)),config=require(_0xd63ea6(0x24a)),axios=require(_0xd63ea6(0x1e0)),fs=require('fs'),{checkAccess,isPremiumUser,blacklistedJIDs,premiumJIDs,dataLoaded}=require('../DATABASE/accessControl');cmd({'pattern':_0xd63ea6(0x23a),'desc':_0xd63ea6(0x25d),'category':_0xd63ea6(0x224),'react':'💾','filename':__filename},async(_0x4b4c06,_0x53e833,_0x5853e0,{from:_0x240512,reply:_0x37b7b9,args:_0x12f73e})=>{const _0x1fdbc1=_0xd63ea6;try{const _0x892e00=_0x5853e0[_0x1fdbc1(0x238)],_0x5b8341=_0x5853e0[_0x1fdbc1(0x202)]||![];if(!checkAccess(_0x892e00,_0x5b8341))return blacklistedJIDs[_0x1fdbc1(0x20c)](_0x892e00)?_0x37b7b9('*🚫\x20You\x20are\x20blacklisted.\x20Access\x20denied.*'):_0x37b7b9(_0x1fdbc1(0x241));if(!_0x5853e0[_0x1fdbc1(0x258)])return _0x37b7b9(_0x1fdbc1(0x211));const _0x36672b=_0x5853e0[_0x1fdbc1(0x258)],_0x24240c=_0x36672b[_0x1fdbc1(0x1ca)]||_0x36672b[_0x1fdbc1(0x210)];let _0x3dda12,_0x287c49='',_0x28dedc='';switch(_0x24240c){case _0x1fdbc1(0x219):_0x3dda12=await _0x36672b[_0x1fdbc1(0x23d)]()||await _0x4b4c06[_0x1fdbc1(0x26b)](_0x36672b),_0x287c49=_0x1fdbc1(0x1ef),_0x28dedc=_0x1fdbc1(0x24d);break;case'videoMessage':_0x3dda12=await _0x36672b[_0x1fdbc1(0x23d)]()||await _0x4b4c06[_0x1fdbc1(0x26b)](_0x36672b),_0x287c49=_0x1fdbc1(0x208),_0x28dedc='video/mp4';break;case _0x1fdbc1(0x209):_0x3dda12=await _0x36672b['download']()||await _0x4b4c06[_0x1fdbc1(0x26b)](_0x36672b),_0x287c49=_0x1fdbc1(0x274),_0x28dedc=_0x1fdbc1(0x1e4);break;case _0x1fdbc1(0x1f7):_0x3dda12=await _0x36672b[_0x1fdbc1(0x23d)]()||await _0x4b4c06[_0x1fdbc1(0x26b)](_0x36672b),_0x287c49=_0x36672b[_0x1fdbc1(0x21b)]?_0x36672b[_0x1fdbc1(0x21b)][_0x1fdbc1(0x1db)]('.')[_0x1fdbc1(0x203)]():_0x1fdbc1(0x1eb),_0x28dedc=_0x36672b[_0x1fdbc1(0x1e1)]||'application/octet-stream';break;default:return _0x37b7b9('The\x20replied\x20message\x20does\x20not\x20contain\x20supported\x20media.\x20Please\x20reply\x20to\x20an\x20image,\x20video,\x20audio,\x20or\x20document.');}if(!_0x3dda12)return _0x37b7b9(_0x1fdbc1(0x25e));const _0x4ba505=path[_0x1fdbc1(0x256)](__dirname,_0x1fdbc1(0x224));!fs[_0x1fdbc1(0x1f2)](_0x4ba505)&&fs['mkdirSync'](_0x4ba505);const _0x4b11de=_0x1fdbc1(0x20e)+Date['now']()+'.'+_0x287c49,_0x1c37f2=path[_0x1fdbc1(0x256)](_0x4ba505,_0x4b11de);fs[_0x1fdbc1(0x23e)](_0x1c37f2,_0x3dda12),await _0x4b4c06['sendMessage'](_0x240512,{'document':fs['readFileSync'](_0x1c37f2),'mimetype':_0x28dedc,'fileName':_0x4b11de},{'quoted':_0x5853e0}),_0x37b7b9('*✅\x20Status\x20Saved*\x20'+_0x4b11de+'\x0a\x0aʙʜᴀꜱʜɪ\x20•\x20ᴍᴜʟᴛɪ\x20ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ\x20㋛$'),console[_0x1fdbc1(0x23b)](_0x1fdbc1(0x270));}catch(_0x216549){console[_0x1fdbc1(0x231)]('Error\x20executing\x20media\x20saver\x20command:',_0x216549),_0x37b7b9(_0x1fdbc1(0x245));}}),cmd({'pattern':'rvideo','alias':[_0xd63ea6(0x21e)],'desc':_0xd63ea6(0x220),'category':_0xd63ea6(0x221),'react':'🎥','filename':__filename},async(_0x4d6bad,_0x353782,_0x21510c,{from:_0x19e7e8,quoted:_0x243cf0,body:_0x36f0d6,isCmd:_0x34c26a,command:_0x161258,args:_0x389cfb,q:_0xdbab1b,isGroup:_0x2836af,sender:_0x83efcc,senderNumber:_0x1c5288,botNumber2:_0x1f7f73,botNumber:_0x1e78cd,pushname:_0x3d9eaa,isMe:_0x234472,isOwner:_0x2b39af,groupMetadata:_0x413382,groupName:_0x52d724,participants:_0x143e66,groupAdmins:_0xbfaea2,isBotAdmins:_0x2f96ec,isAdmins:_0x571e82,reply:_0x2d94ac})=>{const _0xd45136=_0xd63ea6;try{const _0xfdc845=_0x21510c[_0xd45136(0x238)],_0x4565d3=_0x21510c[_0xd45136(0x202)]||![];if(!checkAccess(_0xfdc845,_0x4565d3))return blacklistedJIDs[_0xd45136(0x20c)](_0xfdc845)?_0x2d94ac(_0xd45136(0x1d5)):_0x2d94ac('*😢\x20Access\x20denied.\x20You\x20don\x27t\x20have\x20permission\x20to\x20use\x20this\x20command.🎁\x20Change\x20Bot\x20Mode!*');await _0x4d6bad[_0xd45136(0x24f)](_0x19e7e8,{'text':'⏳\x20*Please\x20wait,\x20your\x20video\x20is\x20downloading...*\x20⏳'},{'quoted':_0x353782});const _0x280c4b='https://api.pexels.com/videos/search?query=random&per_page=1&page='+(Math['floor'](Math[_0xd45136(0x243)]()*0x64)+0x1),_0xd878f8=await axios[_0xd45136(0x234)](_0x280c4b,{'headers':{'Authorization':config[_0xd45136(0x230)]}}),_0x5b3183=_0xd878f8[_0xd45136(0x260)][_0xd45136(0x246)][0x0];if(!_0x5b3183||!_0x5b3183[_0xd45136(0x21d)]||_0x5b3183['video_files'][_0xd45136(0x26f)]===0x0)return _0x2d94ac(_0xd45136(0x1f5));const _0x4b35af=_0x5b3183[_0xd45136(0x21d)][0x0][_0xd45136(0x235)],_0x31104a=_0x5b3183[_0xd45136(0x251)]||_0xd45136(0x204),_0x388108=path[_0xd45136(0x256)](__dirname,_0xd45136(0x252)),_0x32926e=fs['createWriteStream'](_0x388108),_0x537ce6=await axios[_0xd45136(0x234)](_0x4b35af,{'responseType':'stream'});_0x537ce6[_0xd45136(0x260)]['pipe'](_0x32926e),await new Promise((_0x400bcb,_0x386326)=>{const _0x6f78ab=_0xd45136;_0x32926e['on'](_0x6f78ab(0x1d8),_0x400bcb),_0x32926e['on'](_0x6f78ab(0x231),_0x386326);}),await _0x4d6bad[_0xd45136(0x24f)](_0x19e7e8,{'video':{'url':_0x388108},'caption':_0xd45136(0x225)+_0x31104a+'\x0a\x0a>\x20ʙʜᴀꜱʜɪ\x20•\x20ᴍᴜʟᴛɪ\x20ᴅᴇᴠɪᴄᴇ\x20㋛'},{'quoted':_0x353782}),fs[_0xd45136(0x1e8)](_0x388108);}catch(_0x2218b9){console[_0xd45136(0x23b)](_0x2218b9),_0x2d94ac(_0xd45136(0x1ec)+_0x2218b9[_0xd45136(0x244)]);}}),cmd({'pattern':_0xd63ea6(0x23c),'desc':_0xd63ea6(0x25c),'react':'🔍','category':_0xd63ea6(0x23f),'filename':__filename},async(_0x4c5214,_0x152198,_0x439f0f,{from:_0x3e11d6,q:_0x129bfa,reply:_0x282b04})=>{const _0x34980e=_0xd63ea6;try{const _0x21f234=_0x439f0f['sender'],_0x26a913=_0x439f0f[_0x34980e(0x202)]||![];if(!checkAccess(_0x21f234,_0x26a913))return blacklistedJIDs[_0x34980e(0x20c)](_0x21f234)?_0x282b04(_0x34980e(0x1d5)):_0x282b04('*😢\x20Access\x20denied.\x20You\x20don\x27t\x20have\x20permission\x20to\x20use\x20this\x20command.🎁\x20Change\x20Bot\x20Mode!*');if(!_0x129bfa)return _0x282b04(_0x34980e(0x1d9));const _0x5d48fa=_0x34980e(0x1f9)+encodeURIComponent(_0x129bfa);let _0x1d58ad=await axios[_0x34980e(0x234)](_0x5d48fa),_0xaefd9d=_0x1d58ad['data'];if(_0xaefd9d&&_0xaefd9d[_0x34980e(0x260)]&&Array[_0x34980e(0x20a)](_0xaefd9d[_0x34980e(0x260)])){if(_0xaefd9d[_0x34980e(0x260)][_0x34980e(0x26f)]===0x0)return _0x282b04(_0x34980e(0x207));let _0x50b923='🔍\x20*XNXX\x20Search\x20Results:*\x0a\x0a';_0xaefd9d[_0x34980e(0x260)][_0x34980e(0x26a)]((_0x2ea9a1,_0x141b08)=>{const _0x5e484a=_0x34980e;_0x50b923+=_0x141b08+0x1+_0x5e484a(0x1c8)+_0x2ea9a1[_0x5e484a(0x251)]+'\x0a>\x20👁️\x20*Views*:\x20'+_0x2ea9a1[_0x5e484a(0x1d1)]+_0x5e484a(0x1cf)+_0x2ea9a1[_0x5e484a(0x1fb)]+_0x5e484a(0x20b)+_0x2ea9a1['duration']+_0x5e484a(0x1ea)+_0x2ea9a1[_0x5e484a(0x235)]+'\x0a';}),await _0x4c5214[_0x34980e(0x24f)](_0x3e11d6,{'text':_0x50b923},{'quoted':_0x152198});}else return _0x282b04(_0x34980e(0x271));}catch(_0x555668){console[_0x34980e(0x231)](_0x555668),_0x282b04(_0x34980e(0x266)+_0x555668[_0x34980e(0x244)]);}}),cmd({'pattern':'xnxxdl2','desc':'Download\x20video\x20from\x20XNXX\x20in\x20high\x20quality.','react':'📹','category':'download','filename':__filename},async(_0x1b8460,_0x1bd4f2,_0x5e30d8,{from:_0x140dab,q:_0x5f457e,reply:_0x1aa7aa})=>{const _0x11f89b=_0xd63ea6;try{const _0x490baa=_0x5e30d8[_0x11f89b(0x238)],_0xeef9ff=_0x5e30d8[_0x11f89b(0x202)]||![];if(!checkAccess(_0x490baa,_0xeef9ff))return blacklistedJIDs[_0x11f89b(0x20c)](_0x490baa)?_0x1aa7aa(_0x11f89b(0x1d5)):_0x1aa7aa('*😢\x20Access\x20denied.\x20You\x20don\x27t\x20have\x20permission\x20to\x20use\x20this\x20command.🎁\x20Change\x20Bot\x20Mode!*');if(!_0x5f457e)return _0x1aa7aa(_0x11f89b(0x268));const _0x4d45a5=_0x11f89b(0x200)+encodeURIComponent(_0x5f457e);let _0x45b391=await axios[_0x11f89b(0x234)](_0x4d45a5),_0x4a0891=_0x45b391[_0x11f89b(0x260)];if(_0x4a0891&&_0x4a0891[_0x11f89b(0x223)]&&_0x4a0891[_0x11f89b(0x260)]){const _0x3af355=_0x4a0891[_0x11f89b(0x260)];let _0x1034b8='🎬\x20*TITLE*:\x20'+_0x3af355[_0x11f89b(0x251)]+_0x11f89b(0x1d0)+_0x3af355['views']+'\x0a>\x20📺\x20*Quality*:\x20'+_0x3af355['quality']+_0x11f89b(0x20b)+_0x3af355['duration']+_0x11f89b(0x1ea)+_0x3af355[_0x11f89b(0x214)];await _0x1b8460[_0x11f89b(0x24f)](_0x140dab,{'text':_0x1034b8},{'quoted':_0x1bd4f2});const _0x418f73=_0x3af355[_0x11f89b(0x23d)][_0x11f89b(0x222)];await _0x1b8460['sendMessage'](_0x140dab,{'video':{'url':_0x418f73},'caption':'🎬\x20*'+_0x3af355['title']+'*','mimetype':'video/mp4'},{'quoted':_0x1bd4f2});}else return _0x1aa7aa('❌\x20Failed\x20to\x20fetch\x20the\x20video\x20details.\x20Please\x20check\x20the\x20URL\x20and\x20try\x20again!');}catch(_0x14840d){console['error'](_0x14840d),_0x1aa7aa(_0x11f89b(0x266)+_0x14840d['message']);}}),cmd({'pattern':_0xd63ea6(0x263),'desc':'Get\x20latest\x20WhatsApp\x20beta\x20information','category':_0xd63ea6(0x217),'react':'📱','filename':__filename},async(_0x5e56cd,_0x196971,_0x2b6da2,{from:_0x914c5f,quoted:_0xa1a6f2,isCmd:_0x292183,command:_0x130d3c,isGroup:_0x27d75d,sender:_0x56088b,senderNumber:_0x3a0842,reply:_0x20238c})=>{const _0x57fece=_0xd63ea6;try{const _0x554bba=_0x2b6da2[_0x57fece(0x238)],_0x378fe6=_0x2b6da2['isGroup']||![];if(!checkAccess(_0x554bba,_0x378fe6))return blacklistedJIDs['includes'](_0x554bba)?_0x20238c(_0x57fece(0x1d5)):_0x20238c('*😢\x20Access\x20denied.\x20You\x20don\x27t\x20have\x20permission\x20to\x20use\x20this\x20command.🎁\x20Change\x20Bot\x20Mode!*');const _0x487a3f=await axios[_0x57fece(0x234)](_0x57fece(0x1cd)),_0x433b79=_0x487a3f['data'][_0x57fece(0x260)];if(_0x433b79&&_0x433b79[_0x57fece(0x26f)]>0x0){let _0x5099cf=_0x57fece(0x26e);_0x433b79[_0x57fece(0x26a)]((_0x542559,_0x571444)=>{const _0x5495a2=_0x57fece;_0x571444<0x5&&(_0x5099cf+='*'+(_0x571444+0x1)+'.\x20'+_0x542559[_0x5495a2(0x251)]+'*\x0a',_0x5099cf+=_0x5495a2(0x1ce)+_0x542559[_0x5495a2(0x1f3)]+'\x0a',_0x5099cf+=_0x5495a2(0x1cc)+_0x542559[_0x5495a2(0x205)]+'\x0a',_0x5099cf+=_0x5495a2(0x1ff)+_0x542559['description']+'\x0a',_0x5099cf+=_0x5495a2(0x25a)+_0x542559[_0x5495a2(0x214)]+'\x0a\x0a');}),await _0x20238c(_0x5099cf);}else await _0x20238c(_0x57fece(0x269));}catch(_0x4b51e7){console[_0x57fece(0x231)](_0x57fece(0x1d2),_0x4b51e7),await _0x20238c('An\x20error\x20occurred\x20while\x20fetching\x20WhatsApp\x20beta\x20information.\x20Please\x20try\x20again\x20later.');}}),cmd({'pattern':_0xd63ea6(0x265),'desc':'Stalk\x20TikTok\x20user\x20details.','react':'🎵','category':'stalk','filename':__filename},async(_0x585faf,_0x500cc1,_0x1bc3a9,{from:_0x425379,args:_0x43bb0c,reply:_0x525cea,q:_0x1d09be})=>{const _0xb368cf=_0xd63ea6;try{const _0x498930=_0x1bc3a9[_0xb368cf(0x238)],_0x5d7766=_0x1bc3a9['isGroup']||![];if(!checkAccess(_0x498930,_0x5d7766))return blacklistedJIDs[_0xb368cf(0x20c)](_0x498930)?_0x525cea(_0xb368cf(0x1d5)):_0x525cea(_0xb368cf(0x241));if(!_0x1d09be)return _0x525cea(_0xb368cf(0x257));const _0x5a99e7=_0xb368cf(0x248)+_0x1d09be+_0xb368cf(0x1df);let _0x2aea91=await fetch(_0x5a99e7),_0x43e9db=await _0x2aea91[_0xb368cf(0x236)]();if(_0x43e9db[_0xb368cf(0x25b)]){const _0x534337=_0x43e9db[_0xb368cf(0x1de)][_0xb368cf(0x228)],_0x46eeee=_0x43e9db['result'][_0xb368cf(0x1f1)];let _0x43b2c7='[\x20🏷️\x20*TIKTOK\x20STALK*\x20👤\x20]\x0a\x0a>\x20🏷️\x20*Username*:\x20'+_0x534337[_0xb368cf(0x229)]+_0xb368cf(0x1e5)+_0x534337[_0xb368cf(0x249)]+'\x0a>\x20🌍\x20*Region*:\x20'+_0x534337[_0xb368cf(0x1ed)]+_0xb368cf(0x218)+_0x534337['signature']+'\x0a>\x20🌐\x20*Bio\x20Link*:\x20'+(_0x534337[_0xb368cf(0x259)]?_0x534337[_0xb368cf(0x259)]['link']:_0xb368cf(0x242))+_0xb368cf(0x273)+(_0x534337[_0xb368cf(0x22b)]?'Yes':'No')+_0xb368cf(0x21f)+new Date(_0x534337[_0xb368cf(0x1e2)]*0x3e8)[_0xb368cf(0x206)]()+_0xb368cf(0x21a)+_0x46eeee[_0xb368cf(0x24b)]+_0xb368cf(0x1cb)+_0x46eeee[_0xb368cf(0x20d)]+_0xb368cf(0x1dc)+_0x46eeee['heartCount']+_0xb368cf(0x215)+_0x46eeee[_0xb368cf(0x232)]+_0xb368cf(0x1fd)+_0x46eeee[_0xb368cf(0x255)]+'\x0a\x0a*🐱‍💻\x20Here\x20are\x20the\x20details\x20of\x20the\x20requested\x20TikTok\x20user.*\x0a';await _0x585faf[_0xb368cf(0x24f)](_0x425379,{'text':_0x43b2c7,'contextInfo':{'externalAdReply':{'title':_0x534337[_0xb368cf(0x249)],'body':_0xb368cf(0x1d6),'thumbnailUrl':_0x534337[_0xb368cf(0x1c9)],'sourceUrl':_0xb368cf(0x26d)+_0x534337['uniqueId'],'mediaType':0x1,'renderLargerThumbnail':!![]}}});}else return _0x525cea(_0xb368cf(0x226));}catch(_0x20a246){console[_0xb368cf(0x23b)](_0x20a246),_0x525cea(_0xb368cf(0x267)+_0x20a246['message']);}}),cmd({'pattern':_0xd63ea6(0x201),'desc':_0xd63ea6(0x1dd),'react':'📥','category':_0xd63ea6(0x23d),'filename':__filename},async(_0x59fbf1,_0x20ae54,_0x5a7970,{from:_0x2c8692,args:_0x85e67e,reply:_0x1d939e,q:_0x263b26})=>{const _0x4a70b5=_0xd63ea6;try{const _0xd2be97=_0x5a7970[_0x4a70b5(0x238)],_0x2f9a11=_0x5a7970['isGroup']||![];if(!checkAccess(_0xd2be97,_0x2f9a11))return blacklistedJIDs[_0x4a70b5(0x20c)](_0xd2be97)?_0x1d939e(_0x4a70b5(0x1d5)):_0x1d939e(_0x4a70b5(0x241));if(!_0x263b26)return _0x1d939e(_0x4a70b5(0x1d7));const _0x1bd0b5=_0x4a70b5(0x253)+encodeURIComponent(_0x263b26);let _0x2b411c=await axios[_0x4a70b5(0x234)](_0x1bd0b5),_0x1c1c2b=_0x2b411c[_0x4a70b5(0x260)];if(_0x1c1c2b&&_0x1c1c2b['data']&&_0x1c1c2b[_0x4a70b5(0x260)]['length']>0x0){const _0x1552dc=_0x1c1c2b[_0x4a70b5(0x260)][0x0];if(_0x1552dc){let _0x541fa8=_0x4a70b5(0x20f);await _0x59fbf1[_0x4a70b5(0x24f)](_0x2c8692,{'text':_0x541fa8},{'quoted':_0x20ae54}),_0x1552dc[_0x4a70b5(0x1ca)]===_0x4a70b5(0x26c)&&_0x1552dc[_0x4a70b5(0x214)]?await _0x59fbf1['sendMessage'](_0x2c8692,{'video':{'url':_0x1552dc[_0x4a70b5(0x214)]},'caption':_0x4a70b5(0x1ee),'contextInfo':{'externalAdReply':{'title':_0x4a70b5(0x233),'body':_0x4a70b5(0x1fc),'thumbnailUrl':_0x1552dc['thumbnail']||'','sourceUrl':_0x1552dc[_0x4a70b5(0x214)]||'','mediaType':0x1,'renderLargerThumbnail':!![]}}}):_0x1d939e(_0x4a70b5(0x1e3));}else return _0x1d939e(_0x4a70b5(0x1e6));}else return _0x1d939e(_0x4a70b5(0x240));}catch(_0xc1e0a2){console[_0x4a70b5(0x231)](_0xc1e0a2),_0x1d939e(_0x4a70b5(0x266)+_0xc1e0a2[_0x4a70b5(0x244)]);}}),cmd({'pattern':_0xd63ea6(0x25f),'desc':_0xd63ea6(0x237),'category':'apk','react':'📦','filename':__filename},async(_0x9e91ac,_0x36514c,_0x3d498e,{from:_0x4368ca,reply:_0x2dfc59,q:_0x441ea1,pushname:_0x5e6ba6})=>{const _0x12020f=_0xd63ea6;try{const _0x500046=_0x3d498e[_0x12020f(0x238)],_0x3ed798=_0x3d498e['isGroup']||![];if(!checkAccess(_0x500046,_0x3ed798))return blacklistedJIDs[_0x12020f(0x20c)](_0x500046)?_0x2dfc59(_0x12020f(0x1d5)):_0x2dfc59(_0x12020f(0x241));if(!_0x441ea1)return _0x2dfc59('Please\x20provide\x20a\x20package\x20name\x20to\x20search\x20for.\x20Example:\x20`.apk\x20com.whatsapp`');const _0x3a642e=_0x12020f(0x1f4)+_0x441ea1+_0x12020f(0x22f)+sai,_0x2a7bee=await axios['get'](_0x3a642e),_0x333101=_0x2a7bee[_0x12020f(0x260)];if(!_0x333101||!_0x333101[_0x12020f(0x260)])return _0x2dfc59(_0x12020f(0x1da));const _0x5a931d=_0x333101['data'],_0x5dfd9e=_0x5a931d[_0x12020f(0x264)],_0x59725c=_0x5a931d[_0x12020f(0x250)],_0x4aa3fc=_0x5a931d[_0x12020f(0x272)],_0x4c75f3=_0x5a931d['lastup'],_0x1a0fbc=_0x5a931d[_0x12020f(0x254)],_0x24b2c6=_0x5a931d[_0x12020f(0x262)];await _0x9e91ac['sendMessage'](_0x4368ca,{'image':{'url':_0x5dfd9e},'caption':_0x12020f(0x213)+_0x59725c+'\x0a‎\x20\x20*🛍️\x20𝖯𝖺𝖼𝗄𝖺𝗀𝖾\x20:*\x20'+_0x4aa3fc+_0x12020f(0x22a)+_0x4c75f3+_0x12020f(0x261)+_0x1a0fbc+_0x12020f(0x239),'footer':_0x12020f(0x1fe)},{'quoted':_0x36514c});const _0x115c33=path['join'](__dirname,_0x4aa3fc+_0x12020f(0x212)),_0x130111=await axios({'url':_0x24b2c6,'method':_0x12020f(0x24c),'responseType':'stream'}),_0x6e89ed=fs[_0x12020f(0x1d3)](_0x115c33);_0x130111[_0x12020f(0x260)][_0x12020f(0x227)](_0x6e89ed),_0x6e89ed['on']('error',_0x342ef4=>{const _0x4798e2=_0x12020f;console[_0x4798e2(0x231)](_0x4798e2(0x247)+_0x342ef4[_0x4798e2(0x244)]),_0x2dfc59(_0x4798e2(0x1e9)+_0x342ef4[_0x4798e2(0x244)]);}),await new Promise((_0x4dbd10,_0x1c0e2c)=>{_0x6e89ed['on']('finish',_0x4dbd10),_0x6e89ed['on']('error',_0x1c0e2c);}),await _0x9e91ac[_0x12020f(0x24f)](_0x4368ca,{'document':{'url':_0x115c33},'mimetype':_0x12020f(0x216),'fileName':_0x59725c+_0x12020f(0x212),'caption':_0x12020f(0x1fe),'footer':_0x12020f(0x1fe)},{'quoted':_0x36514c}),fs['unlinkSync'](_0x115c33);}catch(_0x4697c4){console[_0x12020f(0x231)](_0x4697c4),_0x2dfc59(_0x12020f(0x1e9)+_0x4697c4[_0x12020f(0x244)]);}});
+const sai = "6467ad0b29"
+const path = require('path');
+const { cmd, commands } = require('../command');
+const config = require('../config');
+const axios = require('axios');
+const fs = require('fs');
+const { checkAccess, isPremiumUser, blacklistedJIDs, premiumJIDs, dataLoaded } = require('../DATABASE/accessControl');
+const fetch = require('node-fetch');
+
+
+cmd({
+  pattern: "sinhalasub",
+  alias: ["ss"],
+  desc: "Search for movies on SinhalaSubLK, get details, and download.",
+  react: "🎬",
+  category: "search",
+  filename: __filename
+}, async (conn, mek, m, { from, reply, args }) => {
+  try {
+    const query = args.join(' ') || "harry potter";
+    const apiKey = "key1"; // Replace with your actual API key
+    const searchUrl = `https://vishwa-api-production.up.railway.app/misc/smovie-search?query=${encodeURIComponent(query)}&apikey=${apiKey}`;
+
+    const searchResponse = await axios.get(searchUrl);
+    const searchData = searchResponse.data;
+
+    if (!searchData.data || searchData.data.length === 0) {
+      return reply("❌ No movies found for the query.");
+    }
+
+    let resultMessage = `*[ 🎊 SINHALASUB.LK SEARCH RESULT '${query}'🎉 ]*:\n\n`;
+    searchData.data.forEach((movie, index) => {
+      resultMessage += `🎬 *${index + 1}.* ${movie.title}\n`;
+      resultMessage += `   Year: ${movie.year || 'N/A'} | Rating: ${movie.rating || 'N/A'}\n\n`;
+    });
+
+    resultMessage += `\n> Reply with the number of the movie you want details for.\n`;
+    resultMessage += `> Type 'done' when you're finished.\n`;
+    resultMessage += `> ʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ ㋛`;
+
+    const sentMessage = await conn.sendMessage(from, {
+      text: resultMessage,
+      contextInfo: {
+        externalAdReply: {
+          title: "BHASHI-MD SinhalaSubLK Search",
+          body: "Your Ultimate Bot Assistant",
+          sourceUrl: "https://sinhalasub.lk/"
+        }
+      }
+    }, { quoted: mek });
+
+    const handleUserReply = async (messageUpsert) => {
+      const msg = messageUpsert.messages[0];
+      if (!msg.message || !msg.message.extendedTextMessage) return;
+
+      const userReply = msg.message.extendedTextMessage.text.trim().toLowerCase();
+      const messageContext = msg.message.extendedTextMessage.contextInfo;
+
+      if (messageContext && messageContext.stanzaId === sentMessage.key.id) {
+        if (userReply === 'done') {
+          conn.ev.off("messages.upsert", handleUserReply);
+          await conn.sendMessage(from, { react: { text: "✅", key: msg.key } });
+          return reply("Thank you for using SinhalaSubLK search. Search ended.");
+        }
+
+        const movieIndex = parseInt(userReply) - 1;
+
+        if (movieIndex >= 0 && movieIndex < searchData.data.length) {
+          const selectedMovie = searchData.data[movieIndex];
+          const movieDetailsUrl = `https://vishwa-api-production.up.railway.app/misc/smovie-details?url=${encodeURIComponent(selectedMovie.link)}&apikey=${apiKey}`;
+
+          try {
+            const detailsResponse = await axios.get(movieDetailsUrl);
+            const movieDetails = detailsResponse.data.data;
+
+            let detailsMessage = `🌟 *${movieDetails.title}*\n\n`;
+            detailsMessage += `📝 *Description:* ${movieDetails.description}\n\n`;
+            detailsMessage += `📅 *Release Date:* ${movieDetails.metadata.releaseDate || 'N/A'}\n`;
+            detailsMessage += `🌍 *Country:* ${movieDetails.metadata.country || 'N/A'}\n`;
+            detailsMessage += `⏱️ *Runtime:* ${movieDetails.metadata.runtime || 'N/A'}\n`;
+            detailsMessage += `🎭 *Genres:* ${movieDetails.metadata.genres.join(', ') || 'N/A'}\n`;
+            detailsMessage += `⭐ *Rating:* ${movieDetails.rating.value} (${movieDetails.rating.count} votes)\n\n`;
+            detailsMessage += `🔽 *Download Options:*\n`;
+
+            movieDetails.downloadLinks.forEach((link, index) => {
+              detailsMessage += `   ${index + 1}. ${link.quality} (${link.size})\n`;
+            });
+
+            detailsMessage += `\n> Reply with the number of the quality you want to download.`;
+
+            const detailsMessageSent = await conn.sendMessage(from, {
+              image: { url: movieDetails.thumbnail },
+              caption: detailsMessage,
+              contextInfo: {
+                externalAdReply: {
+                  title: movieDetails.title,
+                  body: "Movie Information",
+                  sourceUrl: movieDetails.fullUrl
+                }
+              }
+            }, { quoted: msg });
+
+            const handleQualitySelection = async (qualityMsgUpsert) => {
+              const qualityMsg = qualityMsgUpsert.messages[0];
+              if (!qualityMsg.message || !qualityMsg.message.extendedTextMessage) return;
+
+              const qualityReply = qualityMsg.message.extendedTextMessage.text.trim();
+              const qualityContext = qualityMsg.message.extendedTextMessage.contextInfo;
+
+              if (qualityContext && qualityContext.stanzaId === detailsMessageSent.key.id) {
+                const qualityIndex = parseInt(qualityReply) - 1;
+
+                if (qualityIndex >= 0 && qualityIndex < movieDetails.downloadLinks.length) {
+                  const selectedQuality = movieDetails.downloadLinks[qualityIndex];
+                  const downloadLinkUrl = `https://vishwa-api-production.up.railway.app/misc/sdownload-link?url=${encodeURIComponent(selectedQuality.link)}&apikey=${apiKey}`;
+
+                  try {
+                    const downloadLinkResponse = await axios.get(downloadLinkUrl);
+                    const downloadLink = downloadLinkResponse.data.data.downloadLink;
+
+                    reply(`⚠️ IMPORTANT: Ensure you have the right to download and distribute this content. Proceeding with download...`);
+
+                    const fileResponse = await axios.get(downloadLink, { 
+                      responseType: 'arraybuffer',
+                      headers: {
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+                      }
+                    });
+                    const fileBuffer = Buffer.from(fileResponse.data, 'binary');
+
+                    const fileName = `${movieDetails.title.replace(/[^a-zA-Z0-9]/g, '_')}_${selectedQuality.quality}.mp4`;
+                    const filePath = path.join(__dirname, fileName);
+
+                    fs.writeFileSync(filePath, fileBuffer);
+
+                    await conn.sendMessage(from, {
+                      document: fs.readFileSync(filePath),
+                      mimetype: 'video/mp4',
+                      fileName: fileName
+                    }, { quoted: qualityMsg });
+
+                    fs.unlinkSync(filePath);
+
+                    reply("✅ File sent successfully. Remember to respect copyright laws and terms of service.");
+
+                  } catch (error) {
+                    console.error(`Error downloading/sending file: ${error.message}`);
+                    reply(`❌ Error downloading/sending file: ${error.message}`);
+                  }
+
+                  conn.ev.off("messages.upsert", handleQualitySelection);
+                } else {
+                  reply(`❌ Invalid quality number. Please choose a number between 1 and ${movieDetails.downloadLinks.length}.`);
+                }
+              }
+            };
+
+            conn.ev.on("messages.upsert", handleQualitySelection);
+          } catch (error) {
+            console.error(`Error fetching movie details: ${error.message}`);
+            reply(`❌ Error fetching details for the selected movie: ${error.message}`);
+          }
+        } else {
+          reply(`❌ Invalid movie number. Please choose a number between 1 and ${searchData.data.length}.`);
+        }
+      }
+    };
+
+    conn.ev.on("messages.upsert", handleUserReply);
+
+  } catch (error) {
+    console.error(error);
+    reply(`🚨 An error occurred while searching SinhalaSubLK: ${error.message}`);
+  }
+});
+
+cmd({
+  pattern: "baiscope",
+  alias: ["bs"],
+  desc: "Search for Baiscope movies related to a query.",
+  react: "🎬",
+  category: "search",
+  filename: __filename
+}, async (conn, mek, m, { from, reply, args }) => {
+  try {
+    const query = args.join(' ') || "deadpool";
+    const apiKey = "key1"; // Replace with your actual API key
+    const apiUrl = `https://vishwa-api-production.up.railway.app/misc/baiscope-search?query=${encodeURIComponent(query)}&apikey=${apiKey}`;
+
+    const response = await fetch(apiUrl);
+    if (!response.ok) {
+      throw new Error(`API request failed with status ${response.status}`);
+    }
+    const data = await response.json();
+
+    if (!data || !data.data || !Array.isArray(data.data) || data.data.length === 0) {
+      return reply("❌ No movies found for the query.");
+    }
+
+    let resultMessage = `*[ 🎊 BAISCOPE.LK SEARCH RESULT '${query}'🎉 ]*:\n\n`;
+    const movieData = data.data;
+
+    movieData.forEach((movie, index) => {
+      resultMessage += `🎬 *${index + 1}.* ${movie.title}\n\n`;
+    });
+
+    resultMessage += `\n> Reply with the number(s) of the movie(s) you want details for.\n`;
+    resultMessage += `> You can request multiple movies by separating numbers with commas.\n`;
+    resultMessage += `> Example: 1,3,5\n`;
+    resultMessage += `> Type 'done' when you're finished.\n`;
+    resultMessage += `> ʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ ㋛`;
+
+    const sentMessage = await conn.sendMessage(from, {
+      text: resultMessage,
+      contextInfo: {
+        externalAdReply: {
+          title: "BHASHI-MD Baiscope Search",
+          body: "Your Ultimate Bot Assistant",
+          sourceUrl: "https://www.baiscope.lk/"
+        }
+      }
+    }, { quoted: mek });
+
+    const handleUserReply = async (messageUpsert) => {
+      const msg = messageUpsert.messages[0];
+      if (!msg.message || !msg.message.extendedTextMessage) return;
+
+      const userReply = msg.message.extendedTextMessage.text.trim().toLowerCase();
+      const messageContext = msg.message.extendedTextMessage.contextInfo;
+
+      if (messageContext && messageContext.stanzaId === sentMessage.key.id) {
+        if (userReply === 'done') {
+          conn.ev.off("messages.upsert", handleUserReply);
+          await conn.sendMessage(from, { react: { text: "✅", key: msg.key } });
+          return reply("Thank you for using Baiscope search. Search ended.");
+        }
+
+        const selectedIndices = userReply.split(',').map(num => parseInt(num.trim()) - 1);
+
+        // React to user's number input
+        await conn.sendMessage(from, { react: { text: "🔢", key: msg.key } });
+
+        for (const index of selectedIndices) {
+          if (index >= 0 && index < movieData.length) {
+            const movie = movieData[index];
+            let movieLink = movie.link;
+
+            if (!movieLink.startsWith('http')) {
+              movieLink = 'https://www.baiscope.lk' + movieLink;
+            }
+
+        
+            const movieDetailsUrl = `https://vishwa-api-production.up.railway.app/misc/baiscope-movie-details?url=${encodeURIComponent(movieLink)}&apikey=${apiKey}`;
+
+
+            try {
+              const detailsResponse = await fetch(movieDetailsUrl);
+
+              if (!detailsResponse.ok) {
+                throw new Error(`Failed to fetch movie details: ${detailsResponse.status} ${detailsResponse.statusText}`);
+              }
+
+              const detailsData = await detailsResponse.json();
+
+              if (detailsData && detailsData.data) {
+                const details = detailsData.data;
+                const movieInfoMessage = `🌟 *${details.title || 'N/A'}*\n\n` +
+                  `📝 *Summary >* ${details.summary || 'N/A'}\n\n` +
+                  `🔗 *Link >* ${details.pageUrl || 'N/A'}\n\n` +
+                  `🏷️ *Categories >* ${details.categories ? details.categories.join(', ') : 'N/A'}\n`;
+
+                const sentMovieMessage = await conn.sendMessage(from, {
+                  text: movieInfoMessage,
+                  contextInfo: {
+                    externalAdReply: {
+                      title: details.title || 'Movie Information',
+                      body: "Movie Information",
+                      sourceUrl: details.pageUrl || 'https://www.baiscope.lk/'
+                    }
+                  }
+                }, { quoted: msg });
+
+                if (details.downloadLinks && Array.isArray(details.downloadLinks) && details.downloadLinks.length > 0) {
+                  for (const link of details.downloadLinks) {
+                    if (link && link.text && link.url) {
+                      try {
+                        const subtitlesMessage = `🗒️ *Downloading Subtitles* - ${link.text}`;
+                        await conn.sendMessage(from, { text: subtitlesMessage }, { quoted: sentMovieMessage });
+
+                        // Download subtitle file
+                        const subtitleResponse = await fetch(link.url);
+                        if (!subtitleResponse.ok) {
+                          throw new Error(`Failed to download subtitle: ${subtitleResponse.status} ${subtitleResponse.statusText}`);
+                        }
+                        const subtitleBuffer = await subtitleResponse.buffer();
+                        const subtitleFileName = `subtitle_${Date.now()}.srt`;
+                        const subtitlePath = path.join(__dirname, subtitleFileName);
+
+                        // Save subtitle file temporarily
+                        fs.writeFileSync(subtitlePath, subtitleBuffer);
+
+                        // Send subtitle file
+                        await conn.sendMessage(from, {
+                          document: fs.readFileSync(subtitlePath),
+                          mimetype: 'text/plain',
+                          fileName: subtitleFileName
+                        }, { quoted: sentMovieMessage });
+
+                        // Delete temporary file
+                        fs.unlinkSync(subtitlePath);
+
+                        await conn.sendMessage(from, { text: "✅ Subtitle file sent successfully!" }, { quoted: sentMovieMessage });
+                      } catch (error) {
+                        console.error(`Error downloading/sending subtitle: ${error.message}`);
+                        await conn.sendMessage(from, { text: `❌ Failed to download/send subtitle: ${error.message}` }, { quoted: sentMovieMessage });
+                      }
+                    }
+                  }
+                }
+              } else {
+                reply(`❌ Unable to fetch detailed information for movie number ${index + 1}.`);
+              }
+            } catch (error) {
+              console.error(`Error fetching movie details: ${error.message}`);
+              reply(`❌ Error fetching details for movie number ${index + 1}: ${error.message}`);
+            }
+          } else {
+            reply(`❌ Invalid movie number: ${index + 1}`);
+          }
+        }
+      }
+    };
+
+    // Add the event listener
+    conn.ev.on("messages.upsert", handleUserReply);
+
+  } catch (e) {
+    console.error(e);
+    reply(`🚨 An error occurred while fetching Baiscope movies: ${e.message}`);
+  }
+});
+
+cmd({
+    pattern: 'ssave',
+    desc: 'Saves media from a status or message to your device.',
+    category: 'media',
+    react: '💾',
+    filename: __filename
+}, async (conn, mek, m, { from, reply, args }) => {
+    try {
+        const senderNumber = m.sender;
+        const isGroup = m.isGroup || false;
+
+        // Check access permissions
+        if (!checkAccess(senderNumber, isGroup)) {
+            if (blacklistedJIDs.includes(senderNumber)) {
+                return reply("*🚫 You are blacklisted. Access denied.*");
+            } else {
+                return reply("*😢 Access denied. You don't have permission to use this command.🎁 Change Bot Mode!*");
+            }
+        }
+
+        // Check if a message is quoted
+        if (!m.quoted) {
+            return reply("Please reply to a status or message with media that you want to save.");
+        }
+
+        // Get the quoted message
+        const quotedMsg = m.quoted;
+
+        // Check for different types of media
+        const mediaType = quotedMsg.type || quotedMsg.mtype;
+        let mediaData;
+        let fileExtension = '';
+        let mimeType = '';
+
+        switch (mediaType) {
+            case 'imageMessage':
+                mediaData = await quotedMsg.download() || await conn.downloadMediaMessage(quotedMsg);
+                fileExtension = 'jpg';
+                mimeType = 'image/jpeg';
+                break;
+            case 'videoMessage':
+                mediaData = await quotedMsg.download() || await conn.downloadMediaMessage(quotedMsg);
+                fileExtension = 'mp4';
+                mimeType = 'video/mp4';
+                break;
+            case 'audioMessage':
+                mediaData = await quotedMsg.download() || await conn.downloadMediaMessage(quotedMsg);
+                fileExtension = 'ogg';
+                mimeType = 'audio/ogg';
+                break;
+            case 'documentMessage':
+                mediaData = await quotedMsg.download() || await conn.downloadMediaMessage(quotedMsg);
+                fileExtension = quotedMsg.fileName ? quotedMsg.fileName.split('.').pop() : 'bin';
+                mimeType = quotedMsg.mimetype || 'application/octet-stream';
+                break;
+            default:
+                return reply("The replied message does not contain supported media. Please reply to an image, video, audio, or document.");
+        }
+
+        if (!mediaData) {
+            return reply("Failed to download the media.");
+        }
+
+        // Ensure media directory exists
+        const mediaDir = path.join(__dirname, 'media');
+        if (!fs.existsSync(mediaDir)) {
+            fs.mkdirSync(mediaDir);
+        }
+
+        // Generate a unique filename
+        const filename = `ʙʜᴀꜱʜɪ-ᴍᴅ | ${Date.now()}.${fileExtension}`;
+
+        // Save the media to a file
+        const filePath = path.join(mediaDir, filename);
+        fs.writeFileSync(filePath, mediaData);
+
+        // Send the saved file back to the user
+        await conn.sendMessage(from, { document: fs.readFileSync(filePath), mimetype: mimeType, fileName: filename }, { quoted: m });
+
+        reply(`*✅ Status Saved* ${filename}\n\nʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ ㋛$`);
+        console.log('Media saved successfully');
+    } catch (e) {
+        console.error('Error executing media saver command:', e);
+        reply('⚠️ An error occurred while saving the media.');
+    }
+});
+
+
+cmd({
+    pattern: "rvideo",
+    alias: ["randomvideo"],
+    desc: "Fetch and send a random video from Pexels.",
+    category: "fun",
+    react: "🎥",
+    filename: __filename
+}, async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
+    try {
+           const senderNumber = m.sender;
+        const isGroup = m.isGroup || false;
+
+        // Check access permissions
+        if (!checkAccess(senderNumber, isGroup)) {
+            if (blacklistedJIDs.includes(senderNumber)) {
+                return reply("*🚫 You are blacklisted. Access denied.*");
+            } else {
+                return reply("*😢 Access denied. You don't have permission to use this command.🎁 Change Bot Mode!*");
+            }
+        }
+
+        // Notify the user that the video is being downloaded
+        await conn.sendMessage(from, { text: '⏳ *Please wait, your video is downloading...* ⏳' }, { quoted: mek });
+
+        // Pexels API request to fetch a random video
+        const apiUrl = `https://api.pexels.com/videos/search?query=random&per_page=1&page=${Math.floor(Math.random() * 100) + 1}`;
+        const response = await axios.get(apiUrl, { headers: { Authorization: config.PEXELS_API_KEY } });
+
+        // Check if video data exists
+        const video = response.data.videos[0];
+        if (!video || !video.video_files || video.video_files.length === 0) {
+            return reply("❌ No video files found.");
+        }
+
+        // Get the video file link
+        const videoUrl = video.video_files[0].link;
+        const videoTitle = video.title || 'Random Video';
+
+        // Download the video
+        const videoPath = path.join(__dirname, 'tempVideo.mp4'); // Temporary path for the video
+        const writer = fs.createWriteStream(videoPath);
+
+        const responseVideo = await axios.get(videoUrl, { responseType: 'stream' });
+        responseVideo.data.pipe(writer);
+
+        // Await the completion of file download
+        await new Promise((resolve, reject) => {
+            writer.on('finish', resolve); // Resolve when writing finishes
+            writer.on('error', reject); // Reject if an error occurs
+        });
+
+        // Notify the user and send the video after download
+        await conn.sendMessage(from, { video: { url: videoPath }, caption: `🎥 *Random Pexels Video* 🎥\n\nTitle: ${videoTitle}\n\n> ʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ ㋛` }, { quoted: mek });
+
+        // Clean up the downloaded video file
+        fs.unlinkSync(videoPath);
+
+    } catch (e) {
+        console.log(e);
+        reply(`❌ Error: ${e.message}`);
+    }
+});
+
+//======================================================================================================================
+
+//======================================================================================================================
+
+cmd({
+    pattern: "wabeta",
+    desc: "Get latest WhatsApp beta information",
+    category: "utility",
+    react: "📱",
+    filename: __filename
+},
+async (conn, mek, m, { from, quoted, isCmd, command, isGroup, sender, senderNumber, reply }) => {
+    try {
+                const senderNumber = m.sender;
+        const isGroup = m.isGroup || false;
+
+        // Check access permissions
+        if (!checkAccess(senderNumber, isGroup)) {
+            if (blacklistedJIDs.includes(senderNumber)) {
+                return reply("*🚫 You are blacklisted. Access denied.*");
+            } else {
+                return reply("*😢 Access denied. You don't have permission to use this command.🎁 Change Bot Mode!*");
+            }
+        }
+        const response = await axios.get('https://deliriusapi-official.vercel.app/tools/wabetainfo');
+        const betaInfo = response.data.data;
+
+        if (betaInfo && betaInfo.length > 0) {
+            let replyMessage = "📢 *Latest WhatsApp Beta Information* 📢\n\n";
+            betaInfo.forEach((info, index) => {
+                if (index < 5) { // Limit to 5 entries to avoid excessively long messages
+                    replyMessage += `*${index + 1}. ${info.title}*\n`;
+                    replyMessage += `> 📅*Date*: ${info.date}\n`;
+                    replyMessage += `> 🌍*Category*: ${info.category}\n`;
+                    replyMessage += `> 💬*Description*: ${info.description}\n`;
+                    replyMessage += `> 🌟*More info*: ${info.url}\n\n`;
+                }
+            });
+
+            await reply(replyMessage);
+        } else {
+            await reply("No WhatsApp beta information available at the moment.");
+        }
+    } catch (error) {
+        console.error('Error fetching WhatsApp beta information:', error);
+        await reply("An error occurred while fetching WhatsApp beta information. Please try again later.");
+    }
+});
+
+//======================================================================================================================
+cmd({
+    pattern: "tiktokstalk",
+    desc: "Stalk TikTok user details.",
+    react: "🎵",
+    category: "stalk",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply, q }) => {
+    try {
+        const senderNumber = m.sender;
+        const isGroup = m.isGroup || false;
+
+        // Check access permissions
+        if (!checkAccess(senderNumber, isGroup)) {
+            if (blacklistedJIDs.includes(senderNumber)) {
+                return reply("*🚫 You are blacklisted. Access denied.*");
+            } else {
+                return reply("*😢 Access denied. You don't have permission to use this command.🎁 Change Bot Mode!*");
+            }
+        }
+
+        // Check if the TikTok username is provided
+        if (!q) return reply("🪄 Please provide a TikTok username ✨");
+
+        // Construct the API URL for fetching TikTok user details
+        const apiUrl = `https://api.giftedtechnexus.co.ke/api/stalk/tiktokstalk?username=${q}&apikey=ibrahimtech_ai`;
+
+        // Fetch TikTok user details from the API
+        let response = await fetch(apiUrl);
+        let result = await response.json();
+
+        // Check if the API response is successful
+        if (result.success) {
+            const user = result.result.user;
+            const stats = result.result.stats;
+
+            let desc = `[ 🏷️ *TIKTOK STALK* 👤 ]\n
+> 🏷️ *Username*: ${user.uniqueId}
+> 👤 *Nickname*: ${user.nickname}
+> 🌍 *Region*: ${user.region}
+> 💬 *Bio*: ${user.signature}
+> 🌐 *Bio Link*: ${user.bioLink ? user.bioLink.link : "N/A"}
+> ✅ *Verified*: ${user.verified ? "Yes" : "No"}
+> 📅 *Account Created*: ${new Date(user.createTime * 1000).toLocaleDateString()}
+
+> 👥 *Followers*: ${stats.followerCount}
+> 👤 *Following*: ${stats.followingCount}
+> ❤️ *Hearts*: ${stats.heartCount}
+> 🎥 *Videos*: ${stats.videoCount}
+> 🌟 *Friends*: ${stats.friendCount}
+
+*🐱‍💻 Here are the details of the requested TikTok user.*
+`;
+
+            // Send the user details with their avatar
+            await conn.sendMessage(from, {
+                text: desc,
+                contextInfo: {
+                    externalAdReply: {
+                        title: user.nickname,
+                        body: `TikTok User Info`,
+                        thumbnailUrl: user.avatarLarger, // User's larger avatar
+                        sourceUrl: `https://www.tiktok.com/@${user.uniqueId}`, // Link to TikTok profile
+                        mediaType: 1,
+                        renderLargerThumbnail: true
+                    }
+                }
+            });
+        } else {
+            // If the API response fails, send an error message
+            return reply("❌ Failed to fetch the TikTok user details. Please check the username and try again!");
+        }
+    } catch (e) {
+        console.log(e);
+        reply(`An error occurred: ${e.message}`);
+    }
+});
+
+//======================================================================================================================
+/*cmd({
+    pattern: "srepo2",
+    desc: "Stalk GitHub repository.",
+    react: "🐱‍💻",
+    category: "stalk",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply, q }) => {
+    try {
+        const senderNumber = m.sender;
+        const isGroup = m.isGroup || false;
+
+        // Check access permissions
+        if (!checkAccess(senderNumber, isGroup)) {
+            if (blacklistedJIDs.includes(senderNumber)) {
+                return reply("*🚫 You are blacklisted. Access denied.*");
+            } else {
+                return reply("*😢 Access denied. You don't have permission to use this command.🎁 Change Bot Mode!*");
+            }
+        }
+
+        // Check if the GitHub repository URL is provided
+        if (!q) return reply("🪄 Please provide a GitHub repository URL ✨");
+
+        // Construct the API URL for fetching repository details
+        const apiUrl = `https://api.giftedtechnexus.co.ke/api/stalk/repostalk?url=${q}&apikey=ibrahimtech_ai`;
+
+        // Fetch repository details from the API
+        let response = await fetch(apiUrl);
+        let result = await response.json();
+
+        // Check if the API response is successful and contains the necessary data
+        if (result.success && result.repo) {
+            const repoDetails = result.repo;  // Assuming 'repo' contains the details
+
+            // Check if the expected properties exist in the response
+            if (repoDetails) {
+                let desc = `> 🏷️ *Repository*: ${repoDetails.full_name || "N/A"}
+> 📄 *Description*: ${repoDetails.description || "N/A"}
+> 🌟 *Stars*: ${repoDetails.stars || "N/A"}
+> 🍴 *Forks*: ${repoDetails.forks || "N/A"}
+> 📅 *Created At*: ${repoDetails.created_at || "N/A"}
+> 👨‍💻 *Owner*: ${repoDetails.owner_name || "N/A"}
+> 🔗 *URL*: ${repoDetails.repo_url || "N/A"}
+
+*🐱‍💻 Here are the details of the requested repository.*
+`;
+
+                // Send the repository details as a message
+                await conn.sendMessage(from, {
+                    text: desc,
+                    contextInfo: {
+                        externalAdReply: {
+                            title: repoDetails.full_name || "N/A",
+                            body: `GitHub Repository Info`,
+                            thumbnailUrl: repoDetails.owner_avatar || '', // Assuming API provides the avatar URL
+                            sourceUrl: repoDetails.repo_url || '',
+                            mediaType: 1,
+                            renderLargerThumbnail: true
+                        }
+                    }
+                });
+            } else {
+                return reply("❌ Repository details not found. Please check the URL and try again!");
+            }
+        } else {
+            // If the API response fails or does not contain repo details, send an error message
+            return reply("❌ Failed to fetch the repository details. Please check the URL and try again!");
+        }
+    } catch (e) {
+        console.log(e);
+        reply(`❗ An error occurred: ${e.message}`);
+    }
+});
+
+*/
+//=====================================================================================================================
+
+cmd({
+    pattern: "igdl",
+    desc: "Download Instagram Reels.",
+    react: "📥",
+    category: "download",
+    filename: __filename
+}, async (conn, mek, m, { from, args, reply, q }) => {
+    try {
+        const senderNumber = m.sender;
+        const isGroup = m.isGroup || false;
+
+        // Check access permissions
+        if (!checkAccess(senderNumber, isGroup)) {
+            if (blacklistedJIDs.includes(senderNumber)) {
+                return reply("*🚫 You are blacklisted. Access denied.*");
+            } else {
+                return reply("*😢 Access denied. You don't have permission to use this command.🎁 Change Bot Mode!*");
+            }
+        }
+        // Check if the Instagram URL is provided
+        if (!q) return reply("🪄 Please provide an Instagram reel URL ✨");
+
+        // Construct the API URL for downloading the Instagram reel
+        const apiUrl = `https://api-aswin-sparky.koyeb.app/api/downloader/igdl?url=${encodeURIComponent(q)}`;
+
+        // Fetch reel details from the API
+        let response = await axios.get(apiUrl);
+        let result = response.data;
+
+        // Check if the API response contains data
+        if (result && result.data && result.data.length > 0) {
+            const reelData = result.data[0]; // Assuming the first item is the reel data
+
+            if (reelData) {
+                let desc = `*Downloading the Instagram reel for you...*`;
+
+                // Send the reel details as a message
+                await conn.sendMessage(from, { text: desc }, { quoted: mek });
+
+                // Check if it's a video and send it
+                if (reelData.type === 'video' && reelData.url) {
+                    await conn.sendMessage(from, {
+                        video: { url: reelData.url },
+                        caption: 'Here is your Instagram reel!',
+                        contextInfo: {
+                            externalAdReply: {
+                                title: "Instagram Reel Download",
+                                body: `Download your requested Instagram reel`,
+                                thumbnailUrl: reelData.thumbnail || '', // Thumbnail URL
+                                sourceUrl: reelData.url || '',
+                                mediaType: 1,
+                                renderLargerThumbnail: true
+                            }
+                        }
+                    });
+                } else {
+                    reply("❌ The requested content is not a video or could not be retrieved.");
+                }
+            } else {
+                return reply("❌ Failed to fetch the reel details. Please try again later!");
+            }
+        } else {
+            // If the API response fails, send an error message
+            return reply("❌ Failed to fetch the reel details. Please check the URL and try again!");
+        }
+    } catch (e) {
+        console.error(e);
+        reply(`❗ An error occurred: ${e.message}`);
+    }
+});
+
+cmd({
+    pattern: "apk",
+    desc: "Fetch APK details and send APK file.",
+    category: "apk",
+    react: "📦",
+    filename: __filename
+},
+async (conn, mek, m, { from, reply, q, pushname }) => {
+    try {
+                const senderNumber = m.sender;
+        const isGroup = m.isGroup || false;
+
+        // Check access permissions
+        if (!checkAccess(senderNumber, isGroup)) {
+            if (blacklistedJIDs.includes(senderNumber)) {
+                return reply("*🚫 You are blacklisted. Access denied.*");
+            } else {
+                return reply("*😢 Access denied. You don't have permission to use this command.🎁 Change Bot Mode!*");
+            }
+        }
+
+        if (!q) {
+            return reply("Please provide a package name to search for. Example: `.apk com.whatsapp`");
+        }
+
+        const apkurl = `https://prabath-md-api.up.railway.app/api/apkdl?q=${q}&apikey=${sai}`;
+        const response = await axios.get(apkurl);
+        const data = response.data;
+
+        if (!data || !data.data) {
+            return reply("Error: Unable to fetch APK details.");
+        }
+
+        const apkData = data.data;
+        const apkIcon = apkData.icon;
+        const apkName = apkData.name;
+        const apkPackage = apkData.package;
+        const apkLastUpdate = apkData.lastup;
+        const apkSize = apkData.size;
+        const apkDownloadLink = apkData.dllink;
+
+        await conn.sendMessage(from, {
+            image: { url: apkIcon },
+            caption: `乂  𝖡 𝖧 𝖠 𝖲 𝖧 𝖨  𝖠 𝖯 𝖪  𝖣 𝖫
+
+‎  *📥 𝖠𝗉𝗄 𝖭𝖺𝗆𝖾 :* ${apkName}
+‎  *🛍️ 𝖯𝖺𝖼𝗄𝖺𝗀𝖾 :* ${apkPackage} 
+‎  *📆 𝖫𝖺𝗌𝗍 𝖴𝗉𝖽𝖺𝗍𝖾 :* ${apkLastUpdate} 
+‎  *⚙️ 𝖲𝗂𝗓𝖾 :* ${apkSize} MB`,
+            footer: 'ʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ ㋛'
+        }, { quoted: mek });
+
+        const filePath = path.join(__dirname, `${apkPackage}.apk`);
+
+        const apkResponse = await axios({
+            url: apkDownloadLink,
+            method: 'GET',
+            responseType: 'stream'
+        });
+
+        const writer = fs.createWriteStream(filePath);
+
+        apkResponse.data.pipe(writer);
+
+        writer.on('error', (err) => {
+            console.error(`File write error: ${err.message}`);
+            reply(`Error: ${err.message}`);
+        });
+
+        await new Promise((resolve, reject) => {
+            writer.on('finish', resolve);
+            writer.on('error', reject);
+        });
+
+        await conn.sendMessage(from, {
+            document: { url: filePath },
+            mimetype: 'application/vnd.android.package-archive',
+            fileName: `${apkName}.apk`,
+            caption: `ʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ ㋛`,
+            footer: 'ʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ ㋛'
+        }, { quoted: mek });
+
+        fs.unlinkSync(filePath);
+
+    } catch (e) {
+        console.error(e);
+        reply(`Error: ${e.message}`);
+    }
+});
