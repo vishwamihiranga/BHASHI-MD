@@ -36,7 +36,7 @@ cmd({
 }, async (conn, mek, m, { from, reply, args }) => {
   try {
     const query = args.join(' ') || "avatar"; // Default search query if none is provided
-    const apiKey = "your_api_key"; // Replace with actual API key
+    const apiKey = "key1"; // Replace with actual API key
     const searchUrl = `https://vishwa-api-production.up.railway.app/misc/ytsmovie-search?query=${encodeURIComponent(query)}&apikey=${apiKey}`;
 
     const searchResponse = await axios.get(searchUrl);
