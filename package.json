@@ -18,6 +18,7 @@
     "ios-news":"1.0.1",
     "mathjs": "^11.0.0",
     "gsmarena-api": "2.0.5",
+    "webtorrent": "^1.2.0",
     "@whiskeysockets/baileys": "6.6.0",
     "fb-downloader-scrapper": "^1.0.3",
     "form-data": "^4.0.0",
