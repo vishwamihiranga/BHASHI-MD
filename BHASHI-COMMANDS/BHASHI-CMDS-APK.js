@@ -1,21 +1,3 @@
-/*
-
- ██████╗ ██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗    ███╗   ███╗██████╗       ██████╗  ██████╗ ██████╗ ██╗  ██╗ 
- ██╔══██╗██║  ██║██╔══██╗██╔════╝██║  ██║██║    ████╗ ████║██╔══██╗      ╚════██╗██╔═████╗╚════██╗██║  ██║
- ██████╔╝███████║███████║███████╗███████║██║    ██╔████╔██║██║  ██║       █████╔╝██║██╔██║ █████╔╝███████║  
- ██╔══██╗██╔══██║██╔══██║╚════██║██╔══██║██║    ██║╚██╔╝██║██║  ██║      ██╔═══╝ ████╔╝██║██╔═══╝ ╚════██║
- ██████╔╝██║  ██║██║  ██║███████║██║  ██║██║    ██║ ╚═╝ ██║██████╔╝      ███████╗╚██████╔╝███████╗     ██║ 
- ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚═════╝       ╚══════╝ ╚═════╝ ╚══════╝     ╚═╝ 
-                                                                   
-    Project Name : Bhashi Multi Device Whatsapp Bot
-    Version : 1.0
-    Year : 2024
-    Author : Vishwa Mihiranga & Bhashitha
-    This File Last Update Date : 2024.09.27
-
-*/
-
-
 const sai = "6467ad0b29"
 const path = require('path');
 const { cmd, commands } = require('../command');
@@ -25,6 +7,115 @@ const fs = require('fs');
 const { checkAccess, isPremiumUser, blacklistedJIDs, premiumJIDs, dataLoaded } = require('../DATABASE/accessControl');
 const fetch = require('node-fetch');
 const { exec } = require('child_process');
+
+  
+
+
+
+cmd({
+  pattern: "hackernews",
+  alias: ["hn"],
+  desc: "Search for the latest articles on The Hacker News and get details.",
+  react: "📰",
+  category: "search",
+  filename: __filename
+}, async (conn, mek, m, { from, reply, args }) => {
+  try {
+    const apiKey = "key1"; // Your provided API key
+    const apiUrl = `https://vishwa-api-production.up.railway.app/misc/the-hacker-news-list?apikey=${apiKey}`;
+
+    const response = await axios.get(apiUrl);
+    const articlesData = response.data;
+
+    if (!articlesData.data || articlesData.data.length === 0) {
+      return reply("❌ No articles found.");
+    }
+
+    let resultMessage = `*[ 📰 THE HACKER NEWS ARTICLES ]*:\n`;
+    resultMessage += `\n> Reply with the number of the article you want to read in detail.\n\n`;
+    articlesData.data.forEach((article, index) => {
+      resultMessage += `📰 *${index + 1}.* ${article.title}\n`;
+      resultMessage += `   🕒 Published: ${article.date}\n\n`;
+    });
+
+    resultMessage += `> Type 'done' when you're finished.\n`;
+    resultMessage += `> BHASHI • MULTI DEVICE-WA-BOT 😊`;
+
+    const sentMessage = await conn.sendMessage(from, { text: resultMessage }, { quoted: mek });
+
+    // Function to handle user replies for article selection
+    const handleUserReply = async (messageUpsert) => {
+      const msg = messageUpsert.messages[0];
+      if (!msg.message || !msg.message.extendedTextMessage) return;
+
+      const userReply = msg.message.extendedTextMessage.text.trim().toLowerCase();
+      const messageContext = msg.message.extendedTextMessage.contextInfo;
+
+      // React to user reply
+      await conn.sendMessage(from, { react: { text: '👍', key: msg.key } });
+
+      if (messageContext && messageContext.stanzaId === sentMessage.key.id) {
+        if (userReply === 'done') {
+          conn.ev.off("messages.upsert", handleUserReply);
+          return reply("Thank you for using The Hacker News search. Search ended.");
+        }
+
+        const articleIndex = parseInt(userReply) - 1;
+
+        if (articleIndex >= 0 && articleIndex < articlesData.data.length) {
+          const selectedArticle = articlesData.data[articleIndex];
+
+          // Check if URL exists before making the detailed API call
+          if (!selectedArticle.link) {
+            return reply("❌ This article has no valid URL.");
+          }
+
+          // Fetch detailed article information
+          const detailsApiUrl = `https://vishwa-api-production.up.railway.app/misc/the-hacker-news-info?url=${selectedArticle.link}&apikey=${apiKey}`;
+
+          try {
+            const detailsResponse = await axios.get(detailsApiUrl);
+            const articleDetails = detailsResponse.data;
+
+            let detailsMessage = `📰 *${articleDetails.data.title}*\n\n`;
+            detailsMessage += `🕒 *Published:* ${articleDetails.data.date}\n`;
+            detailsMessage += `👤 *Author:* ${articleDetails.author}\n`;
+            detailsMessage += `🔗 *Link:* ${articleDetails.data.link}\n\n`;
+            detailsMessage += `📝 *Description:* ${articleDetails.data.content.replace(/Found this article interesting\? Follow us on Twitter  and LinkedIn to read more exclusive content we post\./, '')}\n\n`;
+            detailsMessage += `🖼️ *Tags:* ${articleDetails.data.tags}\n\n`;
+
+            // If an image exists, send it with the article details
+            if (articleDetails.data.image && articleDetails.data.image.link) {
+              await conn.sendMessage(from, {
+                caption: detailsMessage, // Article details as caption
+                image: { url: articleDetails.data.image.link }, // Sending image
+                quoted: msg
+              });
+            } else {
+              // Send only text if no image
+              await conn.sendMessage(from, { text: detailsMessage }, { quoted: msg });
+            }
+
+          } catch (detailsError) {
+            console.error(`Error fetching detailed article info: ${detailsError.message}`);
+            return reply("🚨 An error occurred while fetching article details.");
+          }
+
+        } else {
+          reply(`❌ Invalid article number. Please choose a number between 1 and ${articlesData.data.length}.`);
+        }
+      }
+    };
+
+    // Add listener to capture user reply for article selection
+    conn.ev.on("messages.upsert", handleUserReply);
+
+  } catch (error) {
+    console.error(`Error in The Hacker News search: ${error.response ? error.response.data : error.message}`);
+    reply(`🚨 An error occurred while fetching articles: ${error.message}`);
+  }
+});
+
 
 cmd({
   pattern: "ytsmovie",
@@ -36,11 +127,13 @@ cmd({
 }, async (conn, mek, m, { from, reply, args }) => {
   try {
     const query = args.join(' ') || "avatar"; // Default search query if none is provided
-    const apiKey = "key1"; // Replace with actual API key
-    const searchUrl = `https://vishwa-api-production.up.railway.app/misc/ytsmovie-search?query=${encodeURIComponent(query)}&apikey=${apiKey}`;
+    const apiKey = "key1"; // Your provided API key
+    const apiUrl = `https://vishwa-api-production.up.railway.app/misc/ytsmx?search=${encodeURIComponent(query)}&apikey=${apiKey}`;
 
-    const searchResponse = await axios.get(searchUrl);
-    const searchData = searchResponse.data;
+    console.log(`API URL: ${apiUrl}`);
+
+    const response = await axios.get(apiUrl);
+    const searchData = response.data;
 
     if (!searchData.data || searchData.data.length === 0) {
       return reply("❌ No movies found for the query.");
@@ -75,86 +168,55 @@ cmd({
 
         if (movieIndex >= 0 && movieIndex < searchData.data.length) {
           const selectedMovie = searchData.data[movieIndex];
-          const movieDetailsUrl = `https://vishwa-api-production.up.railway.app/misc/ytsmovie-details?id=${selectedMovie.id}&apikey=${apiKey}`;
 
-          try {
-            const detailsResponse = await axios.get(movieDetailsUrl);
-            const movieDetails = detailsResponse.data.data;
+          let detailsMessage = `🌟 *${selectedMovie.title}*\n\n`;
+          detailsMessage += `📅 *Year:* ${selectedMovie.year}\n`;
+          detailsMessage += `🎭 *Genres:* ${selectedMovie.genres.join(', ')}\n`;
+          detailsMessage += `⭐ *Rating:* ${selectedMovie.rating}\n\n`;
+          detailsMessage += `📝 *Summary:* ${selectedMovie.summary}\n\n`;
+          detailsMessage += `🔽 *Download Options:*\n`;
 
-            let detailsMessage = `🌟 *${movieDetails.title}*\n\n`;
-            detailsMessage += `📅 *Year:* ${movieDetails.year}\n`;
-            detailsMessage += `🎭 *Genres:* ${movieDetails.genres.join(', ')}\n`;
-            detailsMessage += `⭐ *Rating:* ${movieDetails.rating}\n\n`;
-            detailsMessage += `🔽 *Download Options:*\n`;
+          selectedMovie.torrents.forEach((torrent, index) => {
+            detailsMessage += `   ${index + 1}. ${torrent.quality} (${torrent.size})\n`;
+          });
 
-            movieDetails.torrents.forEach((torrent, index) => {
-              detailsMessage += `   ${index + 1}. ${torrent.quality} (${torrent.size}) - [Magnet Link]\n`;
-            });
+          detailsMessage += `\n> Reply with the number of the torrent you want to download.`;
 
-            detailsMessage += `\n> Reply with the number of the torrent you want to download.`;
+          const detailsMessageSent = await conn.sendMessage(from, {
+            text: detailsMessage // Change to text if you want only text
+          }, { quoted: msg });
 
-            const detailsMessageSent = await conn.sendMessage(from, {
-              image: { url: movieDetails.mediumCoverImage },
-              caption: detailsMessage
-            }, { quoted: msg });
+          const handleQualitySelection = async (qualityMsgUpsert) => {
+            const qualityMsg = qualityMsgUpsert.messages[0];
+            if (!qualityMsg.message || !qualityMsg.message.extendedTextMessage) return;
 
-            const handleQualitySelection = async (qualityMsgUpsert) => {
-              const qualityMsg = qualityMsgUpsert.messages[0];
-              if (!qualityMsg.message || !qualityMsg.message.extendedTextMessage) return;
+            const qualityReply = qualityMsg.message.extendedTextMessage.text.trim();
+            const qualityContext = qualityMsg.message.extendedTextMessage.contextInfo;
 
-              const qualityReply = qualityMsg.message.extendedTextMessage.text.trim();
-              const qualityContext = qualityMsg.message.extendedTextMessage.contextInfo;
+            if (qualityContext && qualityContext.stanzaId === detailsMessageSent.key.id) {
+              const qualityIndex = parseInt(qualityReply) - 1;
 
-              if (qualityContext && qualityContext.stanzaId === detailsMessageSent.key.id) {
-                const qualityIndex = parseInt(qualityReply) - 1;
+              if (qualityIndex >= 0 && qualityIndex < selectedMovie.torrents.length) {
+                const selectedTorrent = selectedMovie.torrents[qualityIndex];
+                const magnetLink = selectedTorrent.magnet_url;
 
-                if (qualityIndex >= 0 && qualityIndex < movieDetails.torrents.length) {
-                  const selectedTorrent = movieDetails.torrents[qualityIndex];
-                  const magnetLink = selectedTorrent.magnet_url;
+                reply(`🎬 *Selected ${selectedTorrent.quality} version*\n\nHere's the magnet link:\n\n${magnetLink}`);
 
-                  reply(`🎬 *Downloading ${selectedTorrent.quality} version...*`);
+                // Send the movie file (you need to specify the file path)
+                const fileUrl = selectedTorrent.url; // Assuming the torrent URL is the direct file link
+                await conn.sendMessage(from, { 
+                  document: { url: fileUrl }, 
+                  caption: `Here is your movie: ${selectedMovie.title} (${selectedTorrent.quality})` 
+                });
 
-                  // Define the output path for the downloaded movie
-                  const outputPath = path.join(__dirname, `${movieDetails.title}.mp4`);
-
-                  // Download the movie using webtorrent-cli
-                  exec(`webtorrent '${magnetLink}' --out ${outputPath}`, async (error, stdout, stderr) => {
-                    if (error) {
-                      console.error(`Error downloading: ${error.message}`);
-                      return reply(`❌ Error downloading movie: ${error.message}`);
-                    }
-
-                    // Check if the file exists after download
-                    if (fs.existsSync(outputPath)) {
-                      reply("✅ Download completed. Sending the movie...");
-
-                      // Send the movie file via WhatsApp
-                      await conn.sendMessage(from, {
-                        document: fs.readFileSync(outputPath),
-                        mimetype: 'video/mp4',
-                        fileName: `${movieDetails.title}.mp4`
-                      }, { quoted: mek });
-
-                      // Delete the file after sending it
-                      fs.unlinkSync(outputPath);
-                      reply("✅ Movie sent successfully!");
-                    } else {
-                      reply("❌ Download failed or file not found.");
-                    }
-                  });
-
-                  conn.ev.off("messages.upsert", handleQualitySelection);
-                } else {
-                  reply(`❌ Invalid quality number. Please choose a number between 1 and ${movieDetails.torrents.length}.`);
-                }
+                conn.ev.off("messages.upsert", handleQualitySelection);
+              } else {
+                reply(`❌ Invalid quality number. Please choose a number between 1 and ${selectedMovie.torrents.length}.`);
               }
-            };
+            }
+          };
 
-            conn.ev.on("messages.upsert", handleQualitySelection);
-          } catch (error) {
-            console.error(`Error fetching movie details: ${error.message}`);
-            reply(`❌ Error fetching details for the selected movie: ${error.message}`);
-          }
+          conn.ev.on("messages.upsert", handleQualitySelection);
         } else {
           reply(`❌ Invalid movie number. Please choose a number between 1 and ${searchData.data.length}.`);
         }
@@ -164,11 +226,10 @@ cmd({
     conn.ev.on("messages.upsert", handleUserReply);
 
   } catch (error) {
-    console.error(error);
+    console.error(`Error in YTS movie search: ${error.response ? error.response.data : error.message}`);
     reply(`🚨 An error occurred while searching YTS: ${error.message}`);
   }
 });
-
 cmd({
   pattern: "sinhalasub",
   alias: ["ss"],
@@ -198,7 +259,8 @@ cmd({
     resultMessage += `\n> Reply with the number of the movie you want details for.\n`;
     resultMessage += `> Type 'done' when you're finished.\n`;
     resultMessage += `> ʙʜᴀꜱʜɪ • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ-ᴡᴀ-ʙᴏᴛ ㋛`;
-      const thumbnailUrl = 'https://i.ibb.co/2jNJs5q/94d829c1-de36-4b7f-9d4d-f0566c361b61-1.jpg';
+
+    const thumbnailUrl = 'https://i.ibb.co/2jNJs5q/94d829c1-de36-4b7f-9d4d-f0566c361b61-1.jpg';
     const sentMessage = await conn.sendMessage(from, {
       text: resultMessage,
       contextInfo: {
@@ -207,7 +269,7 @@ cmd({
           body: "Your Ultimate Bot Assistant",
           thumbnail: { url: thumbnailUrl },
           mediaType: 2,
-          madiaUrll: "https://sinhalasub.lk/"
+          mediaUrl: "https://sinhalasub.lk/"
         }
       }
     }, { quoted: mek });
@@ -220,6 +282,9 @@ cmd({
       const messageContext = msg.message.extendedTextMessage.contextInfo;
 
       if (messageContext && messageContext.stanzaId === sentMessage.key.id) {
+        // React to the user's reply
+        await conn.sendMessage(from, { react: { text: "🔄", key: msg.key } });
+
         if (userReply === 'done') {
           conn.ev.off("messages.upsert", handleUserReply);
           await conn.sendMessage(from, { react: { text: "✅", key: msg.key } });
@@ -274,6 +339,9 @@ cmd({
               if (qualityContext && qualityContext.stanzaId === detailsMessageSent.key.id) {
                 const qualityIndex = parseInt(qualityReply) - 1;
 
+                // React to quality selection
+                await conn.sendMessage(from, { react: { text: "🔍", key: qualityMsg.key } });
+
                 if (qualityIndex >= 0 && qualityIndex < movieDetails.downloadLinks.length) {
                   const selectedQuality = movieDetails.downloadLinks[qualityIndex];
                   const downloadLinkUrl = `https://vishwa-api-production.up.railway.app/misc/sdownload-link?url=${encodeURIComponent(selectedQuality.link)}&apikey=${apiKey}`;
@@ -290,23 +358,15 @@ cmd({
                         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
                       }
                     });
-                    const fileBuffer = Buffer.from(fileResponse.data, 'binary');
 
-                    const fileName = `${movieDetails.title.replace(/[^a-zA-Z0-9]/g, '_')}_${selectedQuality.quality}.mp4`;
-                    const filePath = path.join(__dirname, fileName);
-
-                    fs.writeFileSync(filePath, fileBuffer);
-
+                    // Send the file directly without saving to disk
                     await conn.sendMessage(from, {
-                      document: fs.readFileSync(filePath),
+                      document: { url: downloadLink },
                       mimetype: 'video/mp4',
-                      fileName: fileName
+                      fileName: `${movieDetails.title.replace(/[^a-zA-Z0-9]/g, '_')}_${selectedQuality.quality}.mp4`
                     }, { quoted: qualityMsg });
 
-                    fs.unlinkSync(filePath);
-
                     reply("✅ Download completed.");
-
                   } catch (error) {
                     console.error(`Error downloading/sending file: ${error.message}`);
                     reply(`❌ Error downloading/sending file: ${error.message}`);
@@ -413,9 +473,7 @@ cmd({
               movieLink = 'https://www.baiscope.lk' + movieLink;
             }
 
-        
             const movieDetailsUrl = `https://vishwa-api-production.up.railway.app/misc/baiscope-movie-details?url=${encodeURIComponent(movieLink)}&apikey=${apiKey}`;
-
 
             try {
               const detailsResponse = await fetch(movieDetailsUrl);
@@ -451,27 +509,23 @@ cmd({
                         const subtitlesMessage = `🗒️ *Downloading Subtitles* - ${link.text}`;
                         await conn.sendMessage(from, { text: subtitlesMessage }, { quoted: sentMovieMessage });
 
-                        // Download subtitle file
+                        // Directly send subtitle file from the URL
                         const subtitleResponse = await fetch(link.url);
                         if (!subtitleResponse.ok) {
                           throw new Error(`Failed to download subtitle: ${subtitleResponse.status} ${subtitleResponse.statusText}`);
                         }
+
+                        // Send subtitle file directly
                         const subtitleBuffer = await subtitleResponse.buffer();
                         const subtitleFileName = `subtitle_${Date.now()}.srt`;
-                        const subtitlePath = path.join(__dirname, subtitleFileName);
 
-                        // Save subtitle file temporarily
-                        fs.writeFileSync(subtitlePath, subtitleBuffer);
-
-                        // Send subtitle file
                         await conn.sendMessage(from, {
-                          document: fs.readFileSync(subtitlePath),
+                          document: {
+                            url: link.url
+                          },
                           mimetype: 'text/plain',
                           fileName: subtitleFileName
                         }, { quoted: sentMovieMessage });
-
-                        // Delete temporary file
-                        fs.unlinkSync(subtitlePath);
 
                         await conn.sendMessage(from, { text: "✅ Subtitle file sent successfully!" }, { quoted: sentMovieMessage });
                       } catch (error) {
@@ -503,6 +557,7 @@ cmd({
     reply(`🚨 An error occurred while fetching Baiscope movies: ${e.message}`);
   }
 });
+
 
 cmd({
     pattern: 'ssave',
@@ -1020,4 +1075,3 @@ async (conn, mek, m, { from, reply, q, pushname }) => {
         reply(`Error: ${e.message}`);
     }
 });
-
