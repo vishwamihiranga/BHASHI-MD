@@ -125,7 +125,7 @@
 
 | <a href="https://github.com/vishwamihiranga"><img src="https://i.ibb.co/DQQy17Y/image.png" width=90 height=90></a> | <a href="https://github.com/harshi2010"><img src="https://i.ibb.co/nb7Ky5d/image.png" width=90 height=90></a> | <a href="https://github.com/ALEX-ID-LK"><img src="https://i.ibb.co/2grFMBY/image.png" width=90 height=90></a> |
 |---|---|---|
-| **[VISHWA MIHIRANGA](https://github.com/vishwamihiranga)**</br>Founder & Developer</br> | **[BHASITHA](https://github.com/harshi2010)**</br>Helper</br> | **[ALEX-ID-LK](https://github.com/ALEX-ID-LK)**</br>Owner</br> |
+| **[VISHWA MIHIRANGA](https://github.com/vishwamihiranga)**</br>Founder & Developer</br> | **[BHASITHA](https://github.com/harshi2010)**</br>owner</br> | **[ALEX-ID-LK](https://github.com/ALEX-ID-LK)**</br>helper</br> |
 
 </div>
 
